@@ -1,0 +1,942 @@
+{"id": "f26970b3", "type": "cipher", "correct": true, "extracted": "knight studies the golden castle", "answer": "knight studies the golden castle", "tokens": 3713}
+{"id": "93481650", "type": "equation_numeric_deduce", "correct": true, "extracted": "04", "answer": "04", "tokens": 6218}
+{"id": "21fa96be", "type": "bit_manipulation", "correct": true, "extracted": "10010011", "answer": "10010011", "tokens": 6316}
+{"id": "34b4cf96", "type": "cryptarithm_deduce", "correct": true, "extracted": "\"\"^^", "answer": "\"\"^^", "tokens": 705}
+{"id": "97d07b1c", "type": "cipher", "correct": true, "extracted": "bird chases above garden", "answer": "bird chases above garden", "tokens": 3448}
+{"id": "98856799", "type": "gravity", "correct": true, "extracted": "107.73", "answer": "107.72", "tokens": 2997}
+{"id": "8171f73c", "type": "bit_manipulation", "correct": true, "extracted": "00000001", "answer": "00000001", "tokens": 7323}
+{"id": "ff0e37ae", "type": "cryptarithm_deduce", "correct": false, "extracted": "%'%\"`", "answer": "%'\"`", "tokens": 506}
+{"id": "0133bcec", "type": "cryptarithm_deduce", "correct": false, "extracted": "\\\\([#", "answer": "\\([#", "tokens": 724}
+{"id": "6897f05e", "type": "cryptarithm_deduce", "correct": true, "extracted": ":%::", "answer": ":%::", "tokens": 617}
+{"id": "9fa9ecdc", "type": "equation_numeric_guess", "correct": true, "extracted": "36", "answer": "36", "tokens": 5896}
+{"id": "07b440f0", "type": "cryptarithm_guess", "correct": true, "extracted": "@$^$", "answer": "@$^$", "tokens": 707}
+{"id": "2e9973b7", "type": "cryptarithm_guess", "correct": false, "extracted": ")", "answer": ")\\?%", "tokens": 603}
+{"id": "3b5d7527", "type": "cipher", "correct": true, "extracted": "princess explores under mountain", "answer": "princess explores under mountain", "tokens": 2459}
+{"id": "b62f2e75", "type": "bit_manipulation", "correct": true, "extracted": "00111111", "answer": "00111111", "tokens": 6325}
+{"id": "39a1f5e9", "type": "cryptarithm_deduce", "correct": false, "extracted": "<>\"[", "answer": "<\">[", "tokens": 492}
+{"id": "37a2a7ff", "type": "equation_numeric_deduce", "correct": true, "extracted": "8483", "answer": "8483", "tokens": 5520}
+{"id": "2630aaf8", "type": "bit_manipulation", "correct": true, "extracted": "10111110", "answer": "10111110", "tokens": 7340}
+{"id": "6728c338", "type": "bit_manipulation", "correct": true, "extracted": "00110011", "answer": "00110011", "tokens": 6931}
+{"id": "431c8582", "type": "unit_conversion", "correct": true, "extracted": "27.23", "answer": "27.22", "tokens": 2032}
+{"id": "7eecd498", "type": "cryptarithm_deduce", "correct": true, "extracted": "^:`!", "answer": "^:`!", "tokens": 712}
+{"id": "6e4afac0", "type": "cipher", "correct": true, "extracted": "rabbit follows key", "answer": "rabbit follows key", "tokens": 2939}
+{"id": "1d32e66f", "type": "cipher", "correct": true, "extracted": "hatter found in village", "answer": "hatter found in village", "tokens": 2799}
+{"id": "92cabcca", "type": "numeral", "correct": true, "extracted": "XVII", "answer": "XVII", "tokens": 962}
+{"id": "66659efb", "type": "unit_conversion", "correct": true, "extracted": "30.27", "answer": "30.26", "tokens": 3064}
+{"id": "904295f6", "type": "numeral", "correct": true, "extracted": "XXIV", "answer": "XXIV", "tokens": 943}
+{"id": "5d77eff6", "type": "bit_manipulation", "correct": true, "extracted": "00011100", "answer": "00011100", "tokens": 7365}
+{"id": "d07a1052", "type": "unit_conversion", "correct": true, "extracted": "32.02", "answer": "32.02", "tokens": 1719}
+{"id": "e5e4f442", "type": "cipher", "correct": true, "extracted": "mouse studies under garden", "answer": "mouse studies under garden", "tokens": 1961}
+{"id": "7232e0a5", "type": "cipher", "correct": false, "extracted": "turtle writes the bright story", "answer": "turtle writes the bright puzzle", "tokens": 1890}
+{"id": "d72d8c1c", "type": "cryptarithm_deduce", "correct": true, "extracted": "&@&%", "answer": "&@&%", "tokens": 722}
+{"id": "d0dd8e4e", "type": "numeral", "correct": true, "extracted": "VII", "answer": "VII", "tokens": 944}
+{"id": "0a41eb96", "type": "cipher", "correct": true, "extracted": "the bright king reads", "answer": "the bright king reads", "tokens": 3718}
+{"id": "4e840a1a", "type": "equation_numeric_guess", "correct": true, "extracted": "38", "answer": "38", "tokens": 5873}
+{"id": "d0ea94a2", "type": "cipher", "correct": true, "extracted": "knight follows the wise garden", "answer": "knight follows the wise garden", "tokens": 3986}
+{"id": "d9441d16", "type": "bit_manipulation", "correct": true, "extracted": "01000010", "answer": "01000010", "tokens": 6140}
+{"id": "1b76590c", "type": "gravity", "correct": true, "extracted": "195.58", "answer": "195.57", "tokens": 3795}
+{"id": "fb5a7b9e", "type": "bit_manipulation", "correct": true, "extracted": "11111010", "answer": "11111010", "tokens": 7020}
+{"id": "d5220697", "type": "bit_manipulation", "correct": true, "extracted": "11111111", "answer": "11111111", "tokens": 7121}
+{"id": "861a8c1d", "type": "unit_conversion", "correct": true, "extracted": "82.62", "answer": "82.63", "tokens": 4132}
+{"id": "0d4b2baa", "type": "cryptarithm_deduce", "correct": false, "extracted": ":|#", "answer": ":(|#", "tokens": 481}
+{"id": "3060e3db", "type": "gravity", "correct": true, "extracted": "72.63", "answer": "72.63", "tokens": 3940}
+{"id": "49bc1b7b", "type": "equation_numeric_deduce", "correct": false, "extracted": "167", "answer": "681", "tokens": 5609}
+{"id": "60add54e", "type": "numeral", "correct": true, "extracted": "LXXXVI", "answer": "LXXXVI", "tokens": 998}
+{"id": "aaec36e0", "type": "equation_numeric_deduce", "correct": true, "extracted": "3201", "answer": "3201", "tokens": 5657}
+{"id": "69af662f", "type": "unit_conversion", "correct": false, "extracted": "22.78", "answer": "22.81", "tokens": 1841}
+{"id": "55f4fa64", "type": "cryptarithm_guess", "correct": false, "extracted": null, "answer": "{{!?", "tokens": 485}
+{"id": "0a50c4a8", "type": "bit_manipulation", "correct": true, "extracted": "00001101", "answer": "00001101", "tokens": 7246}
+{"id": "9e2b594d", "type": "bit_manipulation", "correct": true, "extracted": "10000110", "answer": "10000110", "tokens": 6841}
+{"id": "784f2608", "type": "cipher", "correct": true, "extracted": "the wise queen writes", "answer": "the wise queen writes", "tokens": 2920}
+{"id": "e379414c", "type": "cipher", "correct": false, "extracted": "bird found bright map", "answer": "bird found the bright map", "tokens": 5938}
+{"id": "6221b30e", "type": "gravity", "correct": true, "extracted": "12.56", "answer": "12.56", "tokens": 3181}
+{"id": "e38c423b", "type": "cryptarithm_guess", "correct": true, "extracted": "\"(@\"", "answer": "\"(@\"", "tokens": 707}
+{"id": "125e2a23", "type": "unit_conversion", "correct": true, "extracted": "55.07", "answer": "55.07", "tokens": 2607}
+{"id": "884aee1f", "type": "unit_conversion", "correct": true, "extracted": "62.59", "answer": "62.58", "tokens": 2074}
+{"id": "1e248995", "type": "equation_numeric_deduce", "correct": true, "extracted": "31", "answer": "31", "tokens": 6031}
+{"id": "d9fed13d", "type": "numeral", "correct": true, "extracted": "LXXXIII", "answer": "LXXXIII", "tokens": 1007}
+{"id": "8a9ad640", "type": "gravity", "correct": true, "extracted": "140.37", "answer": "140.37", "tokens": 3480}
+{"id": "2673b3cc", "type": "gravity", "correct": true, "extracted": "22.45", "answer": "22.46", "tokens": 4070}
+{"id": "3895fa75", "type": "cipher", "correct": true, "extracted": "turtle studies the clever book", "answer": "turtle studies the clever book", "tokens": 5282}
+{"id": "d5071155", "type": "bit_manipulation", "correct": true, "extracted": "00000100", "answer": "00000100", "tokens": 6849}
+{"id": "d8690fa5", "type": "cipher", "correct": true, "extracted": "teacher sees the dark castle", "answer": "teacher sees the dark castle", "tokens": 2372}
+{"id": "20c252d7", "type": "bit_manipulation", "correct": true, "extracted": "00111111", "answer": "00111111", "tokens": 6450}
+{"id": "aa7b3c66", "type": "cipher", "correct": true, "extracted": "cat chases above ocean", "answer": "cat chases above ocean", "tokens": 2887}
+{"id": "2e9639de", "type": "equation_numeric_deduce", "correct": true, "extracted": "3585", "answer": "3585", "tokens": 5562}
+{"id": "8ae8e12a", "type": "equation_numeric_guess", "correct": true, "extracted": "9", "answer": "9", "tokens": 5825}
+{"id": "f9c59b61", "type": "bit_manipulation", "correct": true, "extracted": "01001011", "answer": "01001011", "tokens": 6228}
+{"id": "44dbe7d3", "type": "gravity", "correct": true, "extracted": "75.15", "answer": "75.15", "tokens": 4231}
+{"id": "25764d5f", "type": "bit_manipulation", "correct": false, "extracted": "00101000", "answer": "00001000", "tokens": 7070}
+{"id": "ff612478", "type": "numeral", "correct": true, "extracted": "XXI", "answer": "XXI", "tokens": 950}
+{"id": "3efc46c1", "type": "equation_numeric_deduce", "correct": true, "extracted": "3964", "answer": "3964", "tokens": 5852}
+{"id": "b398201b", "type": "bit_manipulation", "correct": true, "extracted": "11000111", "answer": "11000111", "tokens": 6204}
+{"id": "0cfc74d4", "type": "bit_manipulation", "correct": true, "extracted": "11011000", "answer": "11011000", "tokens": 5948}
+{"id": "e7b87b82", "type": "equation_numeric_guess", "correct": false, "extracted": "68", "answer": "10", "tokens": 6190}
+{"id": "883e87f4", "type": "numeral", "correct": true, "extracted": "LXII", "answer": "LXII", "tokens": 954}
+{"id": "13042e4a", "type": "gravity", "correct": true, "extracted": "53.17", "answer": "53.16", "tokens": 3056}
+{"id": "8df3daad", "type": "equation_numeric_guess", "correct": true, "extracted": "34", "answer": "34", "tokens": 5801}
+{"id": "4aabfc3b", "type": "equation_numeric_deduce", "correct": true, "extracted": "17", "answer": "17", "tokens": 5715}
+{"id": "40d98aca", "type": "cipher", "correct": true, "extracted": "rabbit found the strange secret", "answer": "rabbit found the strange secret", "tokens": 4007}
+{"id": "04183bf9", "type": "bit_manipulation", "correct": true, "extracted": "10010000", "answer": "10010000", "tokens": 6069}
+{"id": "0bb68c48", "type": "numeral", "correct": true, "extracted": "LVI", "answer": "LVI", "tokens": 946}
+{"id": "04d492a9", "type": "bit_manipulation", "correct": true, "extracted": "00110111", "answer": "00110111", "tokens": 7126}
+{"id": "3ba215ae", "type": "cipher", "correct": true, "extracted": "rabbit dreams around castle", "answer": "rabbit dreams around castle", "tokens": 2450}
+{"id": "eecc4256", "type": "unit_conversion", "correct": true, "extracted": "27.35", "answer": "27.34", "tokens": 2577}
+{"id": "00a3fd23", "type": "cipher", "correct": true, "extracted": "wizard watches through library", "answer": "wizard watches through library", "tokens": 3531}
+{"id": "e5de2bef", "type": "numeral", "correct": true, "extracted": "XXXVI", "answer": "XXXVI", "tokens": 981}
+{"id": "81b6d789", "type": "cryptarithm_deduce", "correct": true, "extracted": "&)@!", "answer": "&)@!", "tokens": 605}
+{"id": "2a6c343e", "type": "cipher", "correct": true, "extracted": "teacher reads above forest", "answer": "teacher reads above forest", "tokens": 2300}
+{"id": "c26048a5", "type": "unit_conversion", "correct": true, "extracted": "19.93", "answer": "19.94", "tokens": 1283}
+{"id": "f2ae9e31", "type": "cipher", "correct": true, "extracted": "the dark alice sees", "answer": "the dark alice sees", "tokens": 2955}
+{"id": "9b458fbc", "type": "equation_numeric_deduce", "correct": true, "extracted": "39", "answer": "39", "tokens": 5521}
+{"id": "0641ef58", "type": "equation_numeric_deduce", "correct": true, "extracted": "-35", "answer": "-35", "tokens": 6064}
+{"id": "8088d63c", "type": "cipher", "correct": true, "extracted": "teacher reads the clever key", "answer": "teacher reads the clever key", "tokens": 3697}
+{"id": "4ee88170", "type": "bit_manipulation", "correct": true, "extracted": "00100010", "answer": "00100010", "tokens": 6706}
+{"id": "8a90b438", "type": "unit_conversion", "correct": true, "extracted": "44.75", "answer": "44.78", "tokens": 2223}
+{"id": "ce2f47a9", "type": "cipher", "correct": true, "extracted": "princess creates message", "answer": "princess creates message", "tokens": 3773}
+{"id": "ced947c8", "type": "bit_manipulation", "correct": true, "extracted": "01001011", "answer": "01001011", "tokens": 7122}
+{"id": "f06202ea", "type": "cipher", "correct": true, "extracted": "queen found above school", "answer": "queen found above school", "tokens": 4427}
+{"id": "a2bdb410", "type": "cipher", "correct": true, "extracted": "teacher explores garden", "answer": "teacher explores garden", "tokens": 2955}
+{"id": "751d48a2", "type": "bit_manipulation", "correct": true, "extracted": "00100000", "answer": "00100000", "tokens": 6422}
+{"id": "4e918d82", "type": "bit_manipulation", "correct": true, "extracted": "11101001", "answer": "11101001", "tokens": 6886}
+{"id": "2ba2b3b4", "type": "unit_conversion", "correct": true, "extracted": "54.22", "answer": "54.24", "tokens": 2295}
+{"id": "9aa8dc92", "type": "cryptarithm_deduce", "correct": true, "extracted": "/#</", "answer": "/#</", "tokens": 487}
+{"id": "258b796b", "type": "cryptarithm_guess", "correct": true, "extracted": "`]|[", "answer": "`]|[", "tokens": 477}
+{"id": "597dc93a", "type": "cipher", "correct": true, "extracted": "queen writes through wonderland", "answer": "queen writes through wonderland", "tokens": 4749}
+{"id": "bd9a9be6", "type": "unit_conversion", "correct": true, "extracted": "9.76", "answer": "9.76", "tokens": 1580}
+{"id": "a898cbc4", "type": "bit_manipulation", "correct": true, "extracted": "01010000", "answer": "01010000", "tokens": 6249}
+{"id": "497953ab", "type": "cipher", "correct": true, "extracted": "turtle writes the strange forest", "answer": "turtle writes the strange forest", "tokens": 1646}
+{"id": "e2e355b5", "type": "unit_conversion", "correct": true, "extracted": "6.45", "answer": "6.45", "tokens": 3361}
+{"id": "b669d051", "type": "gravity", "correct": true, "extracted": "26.29", "answer": "26.3", "tokens": 3751}
+{"id": "be877da5", "type": "equation_numeric_guess", "correct": true, "extracted": "2", "answer": "02", "tokens": 5415}
+{"id": "01f8c0c5", "type": "unit_conversion", "correct": false, "extracted": "9.29", "answer": "9.30", "tokens": 2192}
+{"id": "5d0db0d2", "type": "bit_manipulation", "correct": true, "extracted": "11111111", "answer": "11111111", "tokens": 6799}
+{"id": "89ef2fa0", "type": "unit_conversion", "correct": true, "extracted": "27.00", "answer": "27.01", "tokens": 2275}
+{"id": "d0e13cee", "type": "unit_conversion", "correct": true, "extracted": "44.63", "answer": "44.62", "tokens": 2292}
+{"id": "50153aff", "type": "gravity", "correct": true, "extracted": "25.6", "answer": "25.6", "tokens": 3801}
+{"id": "8e56a42e", "type": "cryptarithm_deduce", "correct": true, "extracted": "%/<>", "answer": "%/<>", "tokens": 477}
+{"id": "5d318851", "type": "cipher", "correct": true, "extracted": "the mysterious rabbit reads", "answer": "the mysterious rabbit reads", "tokens": 4268}
+{"id": "a091bbcc", "type": "numeral", "correct": true, "extracted": "XLVI", "answer": "XLVI", "tokens": 942}
+{"id": "0dcfd566", "type": "cryptarithm_deduce", "correct": false, "extracted": null, "answer": ")@\\{", "tokens": 605}
+{"id": "3d0322e6", "type": "gravity", "correct": true, "extracted": "42.94", "answer": "42.94", "tokens": 2965}
+{"id": "c0e67390", "type": "gravity", "correct": true, "extracted": "16.38", "answer": "16.38", "tokens": 2412}
+{"id": "6606d605", "type": "gravity", "correct": true, "extracted": "200.39", "answer": "200.38", "tokens": 4670}
+{"id": "dc10ca9b", "type": "cipher", "correct": true, "extracted": "student reads inside garden", "answer": "student reads inside garden", "tokens": 1784}
+{"id": "ddafe911", "type": "unit_conversion", "correct": true, "extracted": "23.19", "answer": "23.19", "tokens": 2382}
+{"id": "1f3e4a1e", "type": "unit_conversion", "correct": true, "extracted": "54.44", "answer": "54.45", "tokens": 2356}
+{"id": "4a3e25a7", "type": "gravity", "correct": true, "extracted": "60.92", "answer": "60.92", "tokens": 5828}
+{"id": "13009e35", "type": "bit_manipulation", "correct": true, "extracted": "11111011", "answer": "11111011", "tokens": 7038}
+{"id": "92f42685", "type": "numeral", "correct": true, "extracted": "XIV", "answer": "XIV", "tokens": 937}
+{"id": "d204b9cc", "type": "equation_numeric_deduce", "correct": true, "extracted": "231", "answer": "231", "tokens": 5578}
+{"id": "e518256e", "type": "equation_numeric_deduce", "correct": true, "extracted": "84", "answer": "84", "tokens": 5628}
+{"id": "500ec799", "type": "cipher", "correct": true, "extracted": "cat explores door", "answer": "cat explores door", "tokens": 2337}
+{"id": "11a8af02", "type": "cipher", "correct": true, "extracted": "student discovers under tower", "answer": "student discovers under tower", "tokens": 2680}
+{"id": "c37af443", "type": "numeral", "correct": true, "extracted": "LXXII", "answer": "LXXII", "tokens": 983}
+{"id": "563c1afa", "type": "bit_manipulation", "correct": true, "extracted": "10010011", "answer": "10010011", "tokens": 6557}
+{"id": "2739a748", "type": "cipher", "correct": true, "extracted": "the silver hatter sees", "answer": "the silver hatter sees", "tokens": 3288}
+{"id": "303d3288", "type": "bit_manipulation", "correct": true, "extracted": "01000000", "answer": "01000000", "tokens": 6883}
+{"id": "691c6e38", "type": "bit_manipulation", "correct": true, "extracted": "00010000", "answer": "00010000", "tokens": 6763}
+{"id": "b19f4815", "type": "cipher", "correct": true, "extracted": "student follows book", "answer": "student follows book", "tokens": 4223}
+{"id": "66d1e998", "type": "gravity", "correct": true, "extracted": "58.19", "answer": "58.2", "tokens": 3014}
+{"id": "e35b4378", "type": "gravity", "correct": true, "extracted": "71.01", "answer": "71.03", "tokens": 2507}
+{"id": "e206c8e6", "type": "unit_conversion", "correct": true, "extracted": "8.85", "answer": "8.85", "tokens": 2441}
+{"id": "dd2549dd", "type": "cipher", "correct": true, "extracted": "rabbit watches inside garden", "answer": "rabbit watches inside garden", "tokens": 3149}
+{"id": "32a31236", "type": "equation_numeric_guess", "correct": true, "extracted": "44", "answer": "44", "tokens": 6044}
+{"id": "ac0b6d12", "type": "cipher", "correct": true, "extracted": "king sees the wise potion", "answer": "king sees the wise potion", "tokens": 3265}
+{"id": "98d2dc6d", "type": "unit_conversion", "correct": true, "extracted": "54.75", "answer": "54.75", "tokens": 2010}
+{"id": "184b74cd", "type": "gravity", "correct": true, "extracted": "113.88", "answer": "113.88", "tokens": 4257}
+{"id": "c83c70a6", "type": "numeral", "correct": true, "extracted": "LXXIV", "answer": "LXXIV", "tokens": 975}
+{"id": "7c0c5227", "type": "equation_numeric_guess", "correct": true, "extracted": "14", "answer": "14", "tokens": 5843}
+{"id": "972ef18a", "type": "numeral", "correct": true, "extracted": "XLII", "answer": "XLII", "tokens": 936}
+{"id": "78e6dfa5", "type": "cipher", "correct": true, "extracted": "teacher found the silver book", "answer": "teacher found the silver book", "tokens": 3112}
+{"id": "0fbffd08", "type": "unit_conversion", "correct": true, "extracted": "44.00", "answer": "43.97", "tokens": 3374}
+{"id": "b7ad0671", "type": "equation_numeric_guess", "correct": true, "extracted": "16", "answer": "16", "tokens": 5880}
+{"id": "4ce156ee", "type": "unit_conversion", "correct": true, "extracted": "71.87", "answer": "71.89", "tokens": 3293}
+{"id": "1d92ba5d", "type": "equation_numeric_deduce", "correct": true, "extracted": "511", "answer": "511", "tokens": 5572}
+{"id": "bb3bc7e7", "type": "unit_conversion", "correct": true, "extracted": "41.99", "answer": "42.01", "tokens": 2953}
+{"id": "bcfa36d2", "type": "cipher", "correct": true, "extracted": "rabbit chases book", "answer": "rabbit chases book", "tokens": 3681}
+{"id": "9dc1a759", "type": "bit_manipulation", "correct": true, "extracted": "11101110", "answer": "11101110", "tokens": 6195}
+{"id": "f1f023dd", "type": "numeral", "correct": true, "extracted": "XLIV", "answer": "XLIV", "tokens": 926}
+{"id": "c62359ea", "type": "bit_manipulation", "correct": true, "extracted": "01000000", "answer": "01000000", "tokens": 6794}
+{"id": "c124f209", "type": "gravity", "correct": true, "extracted": "82.45", "answer": "82.45", "tokens": 2092}
+{"id": "b81065fd", "type": "gravity", "correct": true, "extracted": "38.81", "answer": "38.81", "tokens": 4033}
+{"id": "3e60d8bf", "type": "cipher", "correct": true, "extracted": "princess imagines the secret book", "answer": "princess imagines the secret book", "tokens": 3076}
+{"id": "0c0adfe3", "type": "cipher", "correct": true, "extracted": "wizard discovers through village", "answer": "wizard discovers through village", "tokens": 3321}
+{"id": "bb79e64f", "type": "bit_manipulation", "correct": true, "extracted": "01101001", "answer": "01101001", "tokens": 6532}
+{"id": "2cbcd822", "type": "gravity", "correct": false, "extracted": "8.49", "answer": "8.5", "tokens": 4367}
+{"id": "9d073610", "type": "numeral", "correct": true, "extracted": "VI", "answer": "VI", "tokens": 919}
+{"id": "008b52fd", "type": "bit_manipulation", "correct": true, "extracted": "01100101", "answer": "01100101", "tokens": 7351}
+{"id": "e45a4109", "type": "cipher", "correct": true, "extracted": "the secret student writes", "answer": "the secret student writes", "tokens": 1779}
+{"id": "812131f1", "type": "bit_manipulation", "correct": true, "extracted": "11111011", "answer": "11111011", "tokens": 5991}
+{"id": "3c3348b1", "type": "numeral", "correct": true, "extracted": "LII", "answer": "LII", "tokens": 947}
+{"id": "109a6016", "type": "gravity", "correct": true, "extracted": "28.61", "answer": "28.6", "tokens": 2076}
+{"id": "707a6d67", "type": "cipher", "correct": true, "extracted": "king chases the colorful mirror", "answer": "king chases the colorful mirror", "tokens": 4190}
+{"id": "9890b6cd", "type": "gravity", "correct": true, "extracted": "209.73", "answer": "209.74", "tokens": 3942}
+{"id": "30ba0cf4", "type": "bit_manipulation", "correct": true, "extracted": "01101101", "answer": "01101101", "tokens": 6348}
+{"id": "09bb197a", "type": "cipher", "correct": true, "extracted": "wizard dreams the curious potion", "answer": "wizard dreams the curious potion", "tokens": 3843}
+{"id": "dde816ef", "type": "cipher", "correct": true, "extracted": "rabbit writes the strange forest", "answer": "rabbit writes the strange forest", "tokens": 3155}
+{"id": "dc178d1c", "type": "equation_numeric_guess", "correct": true, "extracted": "4", "answer": "04", "tokens": 6131}
+{"id": "79450a97", "type": "cipher", "correct": true, "extracted": "student creates beyond school", "answer": "student creates beyond school", "tokens": 3846}
+{"id": "4b4984a0", "type": "numeral", "correct": true, "extracted": "LXVII", "answer": "LXVII", "tokens": 978}
+{"id": "c60e0b5e", "type": "numeral", "correct": true, "extracted": "XCIX", "answer": "XCIX", "tokens": 937}
+{"id": "1e378206", "type": "cipher", "correct": true, "extracted": "the curious alice draws", "answer": "the curious alice draws", "tokens": 2664}
+{"id": "25cd4dab", "type": "cipher", "correct": true, "extracted": "knight reads the golden puzzle", "answer": "knight reads the golden puzzle", "tokens": 5237}
+{"id": "2ce67ec9", "type": "gravity", "correct": true, "extracted": "73.48", "answer": "73.49", "tokens": 4462}
+{"id": "362e9e42", "type": "bit_manipulation", "correct": true, "extracted": "00100101", "answer": "00100101", "tokens": 7074}
+{"id": "5a4be7fa", "type": "gravity", "correct": true, "extracted": "90.0", "answer": "89.99", "tokens": 4051}
+{"id": "1e6792e6", "type": "unit_conversion", "correct": true, "extracted": "30.27", "answer": "30.30", "tokens": 1981}
+{"id": "7bdce2c9", "type": "unit_conversion", "correct": true, "extracted": "19.48", "answer": "19.48", "tokens": 1839}
+{"id": "824c9c37", "type": "gravity", "correct": true, "extracted": "75.58", "answer": "75.59", "tokens": 3416}
+{"id": "2def3dad", "type": "unit_conversion", "correct": false, "extracted": "6.88", "answer": "6.87", "tokens": 2512}
+{"id": "309520eb", "type": "unit_conversion", "correct": false, "extracted": "6.41", "answer": "6.40", "tokens": 3161}
+{"id": "2c017f70", "type": "cryptarithm_deduce", "correct": false, "extracted": ">/%()", "answer": ">/%(", "tokens": 608}
+{"id": "f848a15f", "type": "numeral", "correct": true, "extracted": "XXXIV", "answer": "XXXIV", "tokens": 965}
+{"id": "cd9d50e2", "type": "equation_numeric_deduce", "correct": true, "extracted": "5293", "answer": "5293", "tokens": 5634}
+{"id": "9cb806f5", "type": "numeral", "correct": true, "extracted": "LXXX", "answer": "LXXX", "tokens": 978}
+{"id": "79c84e68", "type": "cipher", "correct": true, "extracted": "mouse sees the magical crystal", "answer": "mouse sees the magical crystal", "tokens": 1869}
+{"id": "d631af8f", "type": "numeral", "correct": true, "extracted": "LVII", "answer": "LVII", "tokens": 963}
+{"id": "72d909e8", "type": "numeral", "correct": true, "extracted": "IX", "answer": "IX", "tokens": 915}
+{"id": "b989c740", "type": "equation_numeric_deduce", "correct": true, "extracted": "8618", "answer": "8618", "tokens": 5816}
+{"id": "c30a782a", "type": "bit_manipulation", "correct": false, "extracted": "01010110", "answer": "01000110", "tokens": 7207}
+{"id": "105c8b72", "type": "bit_manipulation", "correct": true, "extracted": "00100101", "answer": "00100101", "tokens": 5997}
+{"id": "16e73f0e", "type": "bit_manipulation", "correct": false, "extracted": "00001101", "answer": "00000001", "tokens": 7556}
+{"id": "6cd73bdd", "type": "equation_numeric_deduce", "correct": true, "extracted": "6895", "answer": "6895", "tokens": 5930}
+{"id": "9fb854c3", "type": "equation_numeric_deduce", "correct": true, "extracted": "4", "answer": "4", "tokens": 5526}
+{"id": "2f6531cb", "type": "cryptarithm_deduce", "correct": true, "extracted": "@::'", "answer": "@::'", "tokens": 490}
+{"id": "075b9aec", "type": "unit_conversion", "correct": true, "extracted": "16.12", "answer": "16.13", "tokens": 1721}
+{"id": "2a2eb7c2", "type": "gravity", "correct": true, "extracted": "13.89", "answer": "13.89", "tokens": 3533}
+{"id": "53f74620", "type": "unit_conversion", "correct": true, "extracted": "12.62", "answer": "12.62", "tokens": 2615}
+{"id": "72e80455", "type": "gravity", "correct": true, "extracted": "83.66", "answer": "83.62", "tokens": 2792}
+{"id": "ea7ba028", "type": "gravity", "correct": true, "extracted": "25.56", "answer": "25.56", "tokens": 3923}
+{"id": "5aa2d5d1", "type": "unit_conversion", "correct": true, "extracted": "69.70", "answer": "69.69", "tokens": 1995}
+{"id": "1c48f9aa", "type": "equation_numeric_deduce", "correct": true, "extracted": "8610", "answer": "8610", "tokens": 5794}
+{"id": "22045c05", "type": "cipher", "correct": true, "extracted": "queen found key", "answer": "queen found key", "tokens": 3494}
+{"id": "ddd199dd", "type": "gravity", "correct": true, "extracted": "16.48", "answer": "16.48", "tokens": 3362}
+{"id": "07097221", "type": "unit_conversion", "correct": true, "extracted": "19.38", "answer": "19.38", "tokens": 1161}
+{"id": "b09efdc9", "type": "cipher", "correct": true, "extracted": "king watches near garden", "answer": "king watches near garden", "tokens": 3161}
+{"id": "b6ac4a3b", "type": "cipher", "correct": false, "extracted": "king draws teacher forest", "answer": "king draws through forest", "tokens": 3515}
+{"id": "b2929c2a", "type": "unit_conversion", "correct": true, "extracted": "27.61", "answer": "27.62", "tokens": 2191}
+{"id": "3a9032bc", "type": "gravity", "correct": true, "extracted": "6.63", "answer": "6.63", "tokens": 3215}
+{"id": "a1f40945", "type": "cipher", "correct": false, "extracted": "hatter reads the magical bird", "answer": "hatter reads the magical book", "tokens": 2748}
+{"id": "400c9250", "type": "bit_manipulation", "correct": false, "extracted": "01111111", "answer": "01001110", "tokens": 6649}
+{"id": "b980017a", "type": "equation_numeric_deduce", "correct": true, "extracted": "7946", "answer": "7946", "tokens": 5621}
+{"id": "522f94ac", "type": "cipher", "correct": true, "extracted": "the dark dragon follows", "answer": "the dark dragon follows", "tokens": 4161}
+{"id": "f299569f", "type": "equation_numeric_deduce", "correct": true, "extracted": "7992", "answer": "7992", "tokens": 5553}
+{"id": "6cdcf6d9", "type": "gravity", "correct": true, "extracted": "187.29", "answer": "187.28", "tokens": 4952}
+{"id": "1e9308a9", "type": "cipher", "correct": true, "extracted": "the dark knight draws", "answer": "the dark knight draws", "tokens": 3885}
+{"id": "d695e2b2", "type": "unit_conversion", "correct": true, "extracted": "41.86", "answer": "41.87", "tokens": 1648}
+{"id": "e75dfe6b", "type": "bit_manipulation", "correct": true, "extracted": "00100110", "answer": "00100110", "tokens": 6905}
+{"id": "c62e9b7d", "type": "cipher", "correct": true, "extracted": "king discovers the secret key", "answer": "king discovers the secret key", "tokens": 3729}
+{"id": "83e7b19c", "type": "unit_conversion", "correct": true, "extracted": "52.17", "answer": "52.17", "tokens": 1761}
+{"id": "af8a1eb3", "type": "numeral", "correct": true, "extracted": "X", "answer": "X", "tokens": 926}
+{"id": "22bf2b99", "type": "numeral", "correct": true, "extracted": "LXXXIII", "answer": "LXXXIII", "tokens": 1026}
+{"id": "1a7a041f", "type": "cipher", "correct": true, "extracted": "cat writes forest", "answer": "cat writes forest", "tokens": 2009}
+{"id": "9a00ad08", "type": "unit_conversion", "correct": true, "extracted": "57.92", "answer": "57.94", "tokens": 2174}
+{"id": "35fd8d38", "type": "cipher", "correct": true, "extracted": "queen explores above forest", "answer": "queen explores above forest", "tokens": 6508}
+{"id": "1282c5c5", "type": "bit_manipulation", "correct": true, "extracted": "00001110", "answer": "00001110", "tokens": 6570}
+{"id": "fab4a4c1", "type": "numeral", "correct": true, "extracted": "XIV", "answer": "XIV", "tokens": 940}
+{"id": "7c41629c", "type": "numeral", "correct": true, "extracted": "XII", "answer": "XII", "tokens": 954}
+{"id": "323b9f56", "type": "bit_manipulation", "correct": true, "extracted": "01100011", "answer": "01100011", "tokens": 6562}
+{"id": "53bf0235", "type": "cipher", "correct": true, "extracted": "knight follows puzzle", "answer": "knight follows puzzle", "tokens": 4973}
+{"id": "5eeb4557", "type": "unit_conversion", "correct": true, "extracted": "40.46", "answer": "40.46", "tokens": 2247}
+{"id": "634b5f5f", "type": "bit_manipulation", "correct": false, "extracted": "01110011", "answer": "11110011", "tokens": 6520}
+{"id": "7826240a", "type": "numeral", "correct": true, "extracted": "XXXVIII", "answer": "XXXVIII", "tokens": 1011}
+{"id": "7a803dc3", "type": "cipher", "correct": true, "extracted": "cat follows in ocean", "answer": "cat follows in ocean", "tokens": 1639}
+{"id": "047c4111", "type": "equation_numeric_deduce", "correct": true, "extracted": "2596", "answer": "2596", "tokens": 5429}
+{"id": "c455f908", "type": "cipher", "correct": true, "extracted": "turtle creates key", "answer": "turtle creates key", "tokens": 3067}
+{"id": "6799cb43", "type": "gravity", "correct": true, "extracted": "6.11", "answer": "6.11", "tokens": 5030}
+{"id": "dbc542da", "type": "unit_conversion", "correct": true, "extracted": "9.82", "answer": "9.82", "tokens": 993}
+{"id": "fd1d72d0", "type": "bit_manipulation", "correct": true, "extracted": "00011001", "answer": "00011001", "tokens": 6012}
+{"id": "65044291", "type": "gravity", "correct": true, "extracted": "131.28", "answer": "131.29", "tokens": 3862}
+{"id": "30ce5200", "type": "bit_manipulation", "correct": false, "extracted": "00111110", "answer": "00000010", "tokens": 6637}
+{"id": "ce2df062", "type": "gravity", "correct": true, "extracted": "51.21", "answer": "51.21", "tokens": 4689}
+{"id": "3388581c", "type": "numeral", "correct": true, "extracted": "XXVI", "answer": "XXVI", "tokens": 954}
+{"id": "6b75f5f0", "type": "bit_manipulation", "correct": true, "extracted": "10111100", "answer": "10111100", "tokens": 6554}
+{"id": "3bd56850", "type": "bit_manipulation", "correct": true, "extracted": "01000100", "answer": "01000100", "tokens": 7058}
+{"id": "b2bc6dbb", "type": "cipher", "correct": true, "extracted": "king chases under mountain", "answer": "king chases under mountain", "tokens": 4548}
+{"id": "25211342", "type": "unit_conversion", "correct": true, "extracted": "29.93", "answer": "29.93", "tokens": 1580}
+{"id": "d64151c0", "type": "unit_conversion", "correct": true, "extracted": "10.66", "answer": "10.66", "tokens": 2272}
+{"id": "a95e05ce", "type": "bit_manipulation", "correct": true, "extracted": "01101000", "answer": "01101000", "tokens": 6083}
+{"id": "e97073be", "type": "numeral", "correct": true, "extracted": "XC", "answer": "XC", "tokens": 923}
+{"id": "37a00064", "type": "bit_manipulation", "correct": true, "extracted": "00000001", "answer": "00000001", "tokens": 6858}
+{"id": "6e6db0ef", "type": "cipher", "correct": true, "extracted": "princess found near mountain", "answer": "princess found near mountain", "tokens": 3190}
+{"id": "dd9249a9", "type": "gravity", "correct": true, "extracted": "32.17", "answer": "32.17", "tokens": 3708}
+{"id": "3fc1c520", "type": "unit_conversion", "correct": true, "extracted": "10.55", "answer": "10.55", "tokens": 1980}
+{"id": "9cfc388d", "type": "bit_manipulation", "correct": true, "extracted": "10100010", "answer": "10100010", "tokens": 6370}
+{"id": "3302f383", "type": "bit_manipulation", "correct": true, "extracted": "10110001", "answer": "10110001", "tokens": 6993}
+{"id": "2f3ebe0b", "type": "cipher", "correct": true, "extracted": "turtle discovers the dark key", "answer": "turtle discovers the dark key", "tokens": 4106}
+{"id": "a68a66ee", "type": "numeral", "correct": true, "extracted": "LXXXIII", "answer": "LXXXIII", "tokens": 1023}
+{"id": "5957f4e5", "type": "gravity", "correct": true, "extracted": "52.09", "answer": "52.08", "tokens": 4301}
+{"id": "45378f59", "type": "bit_manipulation", "correct": true, "extracted": "11000011", "answer": "11000010", "tokens": 6113}
+{"id": "590dd50f", "type": "cipher", "correct": true, "extracted": "alice found story", "answer": "alice found story", "tokens": 1882}
+{"id": "6960ceea", "type": "cipher", "correct": true, "extracted": "teacher studies near mountain", "answer": "teacher studies near mountain", "tokens": 2687}
+{"id": "592f63c6", "type": "unit_conversion", "correct": true, "extracted": "47.10", "answer": "47.10", "tokens": 1141}
+{"id": "680b8642", "type": "gravity", "correct": true, "extracted": "13.01", "answer": "13.01", "tokens": 4646}
+{"id": "c1f7f792", "type": "cipher", "correct": true, "extracted": "king writes key", "answer": "king writes key", "tokens": 3291}
+{"id": "08a161c9", "type": "bit_manipulation", "correct": true, "extracted": "01011111", "answer": "01011111", "tokens": 6302}
+{"id": "e192e12e", "type": "cipher", "correct": true, "extracted": "hatter follows the clever message", "answer": "hatter follows the clever message", "tokens": 4490}
+{"id": "9a9f5fef", "type": "cipher", "correct": true, "extracted": "wizard sees the golden key", "answer": "wizard sees the golden key", "tokens": 5311}
+{"id": "fb87d8fd", "type": "unit_conversion", "correct": true, "extracted": "29.60", "answer": "29.59", "tokens": 3337}
+{"id": "4c8182b0", "type": "bit_manipulation", "correct": true, "extracted": "10001100", "answer": "10001100", "tokens": 6647}
+{"id": "dd8fdfbf", "type": "numeral", "correct": true, "extracted": "XLVI", "answer": "XLVI", "tokens": 957}
+{"id": "b91855fd", "type": "bit_manipulation", "correct": true, "extracted": "00110000", "answer": "00110000", "tokens": 7242}
+{"id": "357974d4", "type": "gravity", "correct": true, "extracted": "31.16", "answer": "31.16", "tokens": 4187}
+{"id": "1b7e17d4", "type": "cipher", "correct": true, "extracted": "wizard follows through cave", "answer": "wizard follows through cave", "tokens": 6207}
+{"id": "27568ac1", "type": "numeral", "correct": true, "extracted": "XCVI", "answer": "XCVI", "tokens": 961}
+{"id": "5b1b00e6", "type": "cipher", "correct": true, "extracted": "alice dreams in castle", "answer": "alice dreams in castle", "tokens": 2366}
+{"id": "d1ecdd11", "type": "bit_manipulation", "correct": false, "extracted": "11111110", "answer": "11001100", "tokens": 6813}
+{"id": "ce3b9926", "type": "gravity", "correct": true, "extracted": "50.99", "answer": "51.0", "tokens": 3027}
+{"id": "a8d5c8c2", "type": "gravity", "correct": true, "extracted": "4.83", "answer": "4.83", "tokens": 3900}
+{"id": "7f56ce0a", "type": "cipher", "correct": true, "extracted": "knight chases through valley", "answer": "knight chases through valley", "tokens": 5428}
+{"id": "39b77fed", "type": "unit_conversion", "correct": false, "extracted": "6.35", "answer": "6.34", "tokens": 1674}
+{"id": "290cc78d", "type": "cipher", "correct": true, "extracted": "teacher draws through castle", "answer": "teacher draws through castle", "tokens": 3126}
+{"id": "83ab128f", "type": "unit_conversion", "correct": true, "extracted": "36.91", "answer": "36.93", "tokens": 2936}
+{"id": "7ccd8915", "type": "numeral", "correct": true, "extracted": "LXXXVI", "answer": "LXXXVI", "tokens": 998}
+{"id": "9b1ea308", "type": "equation_numeric_deduce", "correct": false, "extracted": "25", "answer": "261", "tokens": 5489}
+{"id": "b7a96254", "type": "unit_conversion", "correct": true, "extracted": "11.25", "answer": "11.24", "tokens": 3238}
+{"id": "dd01103a", "type": "unit_conversion", "correct": true, "extracted": "28.46", "answer": "28.46", "tokens": 1390}
+{"id": "d8390d72", "type": "gravity", "correct": true, "extracted": "134.31", "answer": "134.3", "tokens": 4714}
+{"id": "dfad71ea", "type": "cipher", "correct": true, "extracted": "the ancient rabbit reads", "answer": "the ancient rabbit reads", "tokens": 1527}
+{"id": "88b43464", "type": "equation_numeric_deduce", "correct": true, "extracted": "5311", "answer": "5311", "tokens": 5605}
+{"id": "3ec77e36", "type": "equation_numeric_deduce", "correct": true, "extracted": "601", "answer": "601", "tokens": 6095}
+{"id": "78fd8106", "type": "cipher", "correct": true, "extracted": "cat follows mirror", "answer": "cat follows mirror", "tokens": 2227}
+{"id": "cf447906", "type": "bit_manipulation", "correct": true, "extracted": "10000111", "answer": "10000111", "tokens": 7244}
+{"id": "340f68d0", "type": "unit_conversion", "correct": true, "extracted": "14.96", "answer": "14.96", "tokens": 1534}
+{"id": "e818def8", "type": "bit_manipulation", "correct": true, "extracted": "10101010", "answer": "10101010", "tokens": 6306}
+{"id": "76c613de", "type": "cipher", "correct": true, "extracted": "king follows near castle", "answer": "king follows near castle", "tokens": 3127}
+{"id": "852100b7", "type": "unit_conversion", "correct": true, "extracted": "33.25", "answer": "33.26", "tokens": 2429}
+{"id": "7f86da55", "type": "cipher", "correct": true, "extracted": "the ancient teacher watches", "answer": "the ancient teacher watches", "tokens": 2494}
+{"id": "3dcf9cc3", "type": "numeral", "correct": true, "extracted": "XCVIII", "answer": "XCVIII", "tokens": 983}
+{"id": "2b9561a1", "type": "cipher", "correct": true, "extracted": "the clever knight explores", "answer": "the clever knight explores", "tokens": 5042}
+{"id": "3b9e33f6", "type": "equation_numeric_deduce", "correct": true, "extracted": "501", "answer": "501", "tokens": 5587}
+{"id": "a521be72", "type": "bit_manipulation", "correct": true, "extracted": "11011111", "answer": "11011111", "tokens": 6905}
+{"id": "0dc5fa8a", "type": "cipher", "correct": true, "extracted": "turtle imagines the hidden castle", "answer": "turtle imagines the hidden castle", "tokens": 3168}
+{"id": "90861ae9", "type": "gravity", "correct": true, "extracted": "86.3", "answer": "86.31", "tokens": 3295}
+{"id": "3a221bb6", "type": "cipher", "correct": true, "extracted": "student explores under castle", "answer": "student explores under castle", "tokens": 3117}
+{"id": "bbace822", "type": "gravity", "correct": true, "extracted": "111.6", "answer": "111.59", "tokens": 4692}
+{"id": "065abaf6", "type": "cryptarithm_deduce", "correct": true, "extracted": "&/:\\", "answer": "&/:\\", "tokens": 705}
+{"id": "c7a4e09f", "type": "unit_conversion", "correct": true, "extracted": "8.12", "answer": "8.12", "tokens": 2481}
+{"id": "420594b0", "type": "unit_conversion", "correct": true, "extracted": "64.66", "answer": "64.65", "tokens": 2589}
+{"id": "47720c17", "type": "bit_manipulation", "correct": true, "extracted": "10001110", "answer": "10001110", "tokens": 6788}
+{"id": "210f5249", "type": "unit_conversion", "correct": true, "extracted": "25.22", "answer": "25.23", "tokens": 3874}
+{"id": "9dfec106", "type": "cipher", "correct": true, "extracted": "mouse reads inside castle", "answer": "mouse reads inside castle", "tokens": 2497}
+{"id": "ea2e88ca", "type": "bit_manipulation", "correct": true, "extracted": "00110111", "answer": "00110111", "tokens": 6634}
+{"id": "da38592d", "type": "bit_manipulation", "correct": true, "extracted": "01001110", "answer": "01001110", "tokens": 6229}
+{"id": "65691fc9", "type": "unit_conversion", "correct": true, "extracted": "54.28", "answer": "54.28", "tokens": 3559}
+{"id": "cf8405a9", "type": "unit_conversion", "correct": true, "extracted": "19.09", "answer": "19.10", "tokens": 2301}
+{"id": "114a7439", "type": "bit_manipulation", "correct": true, "extracted": "01110001", "answer": "01110001", "tokens": 5972}
+{"id": "f63f77f8", "type": "gravity", "correct": true, "extracted": "66.83", "answer": "66.83", "tokens": 3482}
+{"id": "ab0eee3d", "type": "bit_manipulation", "correct": true, "extracted": "00010111", "answer": "00010111", "tokens": 6556}
+{"id": "0d4dc849", "type": "gravity", "correct": true, "extracted": "112.62", "answer": "112.63", "tokens": 2641}
+{"id": "2cbb9290", "type": "gravity", "correct": true, "extracted": "21.5", "answer": "21.49", "tokens": 2365}
+{"id": "867b8d6c", "type": "cipher", "correct": true, "extracted": "mouse draws the mysterious mirror", "answer": "mouse draws the mysterious mirror", "tokens": 5026}
+{"id": "8a345538", "type": "gravity", "correct": true, "extracted": "57.42", "answer": "57.42", "tokens": 4068}
+{"id": "72336119", "type": "equation_numeric_deduce", "correct": true, "extracted": "3316", "answer": "3316", "tokens": 5867}
+{"id": "47e63612", "type": "gravity", "correct": true, "extracted": "60.89", "answer": "60.89", "tokens": 2379}
+{"id": "addd2e88", "type": "unit_conversion", "correct": true, "extracted": "15.49", "answer": "15.48", "tokens": 3447}
+{"id": "f1e4b165", "type": "unit_conversion", "correct": true, "extracted": "26.54", "answer": "26.55", "tokens": 1148}
+{"id": "d7d182c5", "type": "cipher", "correct": true, "extracted": "alice sees the hidden story", "answer": "alice sees the hidden story", "tokens": 2776}
+{"id": "0839e9e0", "type": "unit_conversion", "correct": true, "extracted": "42.88", "answer": "42.88", "tokens": 2133}
+{"id": "352a47ba", "type": "cipher", "correct": true, "extracted": "the hidden king discovers", "answer": "the hidden king discovers", "tokens": 3913}
+{"id": "c180cdec", "type": "bit_manipulation", "correct": false, "extracted": "00011000", "answer": "00000100", "tokens": 7236}
+{"id": "3419a4b1", "type": "gravity", "correct": true, "extracted": "129.92", "answer": "129.92", "tokens": 3660}
+{"id": "792a5ccd", "type": "bit_manipulation", "correct": true, "extracted": "10101100", "answer": "10101100", "tokens": 7040}
+{"id": "abba85ac", "type": "bit_manipulation", "correct": true, "extracted": "11101110", "answer": "11101110", "tokens": 6461}
+{"id": "11d16271", "type": "cipher", "correct": true, "extracted": "queen creates under school", "answer": "queen creates under school", "tokens": 2737}
+{"id": "abb5d597", "type": "bit_manipulation", "correct": true, "extracted": "00111000", "answer": "00111000", "tokens": 6197}
+{"id": "9a79a454", "type": "unit_conversion", "correct": true, "extracted": "68.53", "answer": "68.52", "tokens": 2878}
+{"id": "37d90651", "type": "unit_conversion", "correct": true, "extracted": "17.41", "answer": "17.41", "tokens": 1638}
+{"id": "acf4ac58", "type": "cipher", "correct": true, "extracted": "bird found treasure", "answer": "bird found treasure", "tokens": 3521}
+{"id": "d996d0b8", "type": "bit_manipulation", "correct": true, "extracted": "00000011", "answer": "00000011", "tokens": 6658}
+{"id": "1df17458", "type": "cipher", "correct": true, "extracted": "mouse watches message", "answer": "mouse watches message", "tokens": 2161}
+{"id": "30b4543c", "type": "gravity", "correct": true, "extracted": "103.51", "answer": "103.48", "tokens": 4186}
+{"id": "514fb8df", "type": "cipher", "correct": true, "extracted": "teacher watches inside mountain", "answer": "teacher watches inside mountain", "tokens": 2378}
+{"id": "b365d48c", "type": "numeral", "correct": true, "extracted": "LXVI", "answer": "LXVI", "tokens": 961}
+{"id": "e6157d05", "type": "unit_conversion", "correct": true, "extracted": "9.64", "answer": "9.64", "tokens": 2397}
+{"id": "ddedebc3", "type": "unit_conversion", "correct": true, "extracted": "51.38", "answer": "51.38", "tokens": 2509}
+{"id": "cd013121", "type": "numeral", "correct": true, "extracted": "II", "answer": "II", "tokens": 920}
+{"id": "2f6c2b3e", "type": "bit_manipulation", "correct": true, "extracted": "00000000", "answer": "00000000", "tokens": 6437}
+{"id": "4c718602", "type": "gravity", "correct": true, "extracted": "92.71", "answer": "92.71", "tokens": 2890}
+{"id": "6d3b9da4", "type": "equation_numeric_deduce", "correct": true, "extracted": "99", "answer": "99", "tokens": 5673}
+{"id": "f55c1bf0", "type": "bit_manipulation", "correct": true, "extracted": "11010111", "answer": "11010111", "tokens": 7154}
+{"id": "790d2fa8", "type": "bit_manipulation", "correct": true, "extracted": "11011001", "answer": "11011001", "tokens": 7219}
+{"id": "aab3127a", "type": "unit_conversion", "correct": true, "extracted": "13.73", "answer": "13.73", "tokens": 2244}
+{"id": "7625f639", "type": "numeral", "correct": true, "extracted": "XXVIII", "answer": "XXVIII", "tokens": 983}
+{"id": "946be984", "type": "unit_conversion", "correct": true, "extracted": "35.70", "answer": "35.71", "tokens": 2235}
+{"id": "033d2b33", "type": "cipher", "correct": true, "extracted": "mouse dreams near cave", "answer": "mouse dreams near cave", "tokens": 4102}
+{"id": "e55fd0b8", "type": "cipher", "correct": true, "extracted": "student watches beyond garden", "answer": "student watches beyond garden", "tokens": 4031}
+{"id": "dc8c22f7", "type": "cipher", "correct": true, "extracted": "student discovers through library", "answer": "student discovers through library", "tokens": 4556}
+{"id": "02021540", "type": "bit_manipulation", "correct": true, "extracted": "11100000", "answer": "11100000", "tokens": 6171}
+{"id": "bd214050", "type": "bit_manipulation", "correct": true, "extracted": "11111110", "answer": "11111110", "tokens": 6465}
+{"id": "c5bea6cd", "type": "gravity", "correct": true, "extracted": "113.05", "answer": "113.05", "tokens": 4324}
+{"id": "a2e6bcdb", "type": "cipher", "correct": true, "extracted": "mouse chases message", "answer": "mouse chases message", "tokens": 4412}
+{"id": "489ffff9", "type": "gravity", "correct": false, "extracted": "8.57", "answer": "8.58", "tokens": 3197}
+{"id": "4b9e883a", "type": "gravity", "correct": true, "extracted": "108.42", "answer": "108.43", "tokens": 3670}
+{"id": "a6d02e56", "type": "gravity", "correct": true, "extracted": "93.89", "answer": "93.91", "tokens": 3255}
+{"id": "837af955", "type": "equation_numeric_deduce", "correct": true, "extracted": "0814", "answer": "0814", "tokens": 5840}
+{"id": "4059e1a5", "type": "bit_manipulation", "correct": true, "extracted": "00000111", "answer": "00000111", "tokens": 6564}
+{"id": "d784ec07", "type": "unit_conversion", "correct": true, "extracted": "42.04", "answer": "42.05", "tokens": 3262}
+{"id": "6659ec00", "type": "gravity", "correct": true, "extracted": "75.61", "answer": "75.61", "tokens": 4402}
+{"id": "7eaadb01", "type": "bit_manipulation", "correct": true, "extracted": "00100111", "answer": "00100111", "tokens": 6872}
+{"id": "37d81990", "type": "bit_manipulation", "correct": true, "extracted": "01111011", "answer": "01111011", "tokens": 7052}
+{"id": "4e4fb429", "type": "bit_manipulation", "correct": true, "extracted": "10111110", "answer": "10111110", "tokens": 6520}
+{"id": "4cacc264", "type": "cipher", "correct": true, "extracted": "bird chases the colorful forest", "answer": "bird chases the colorful forest", "tokens": 1909}
+{"id": "f53719ce", "type": "unit_conversion", "correct": true, "extracted": "27.38", "answer": "27.38", "tokens": 1688}
+{"id": "596faeab", "type": "unit_conversion", "correct": true, "extracted": "5.66", "answer": "5.66", "tokens": 2605}
+{"id": "4b8f6727", "type": "bit_manipulation", "correct": true, "extracted": "11010110", "answer": "11010110", "tokens": 6667}
+{"id": "3aeee6cd", "type": "numeral", "correct": true, "extracted": "XXXVIII", "answer": "XXXVIII", "tokens": 1015}
+{"id": "b634898d", "type": "bit_manipulation", "correct": true, "extracted": "11000000", "answer": "11000000", "tokens": 7172}
+{"id": "5dacf7ca", "type": "cipher", "correct": true, "extracted": "wizard imagines the colorful puzzle", "answer": "wizard imagines the colorful puzzle", "tokens": 5438}
+{"id": "31ea69a9", "type": "gravity", "correct": true, "extracted": "27.99", "answer": "27.99", "tokens": 3798}
+{"id": "71fc0560", "type": "gravity", "correct": true, "extracted": "65.25", "answer": "65.24", "tokens": 2508}
+{"id": "654e8a98", "type": "bit_manipulation", "correct": true, "extracted": "00001101", "answer": "00001101", "tokens": 6546}
+{"id": "48cd9139", "type": "cipher", "correct": true, "extracted": "student dreams map", "answer": "student dreams map", "tokens": 3171}
+{"id": "a84e9e9e", "type": "cipher", "correct": true, "extracted": "queen sees secret", "answer": "queen sees secret", "tokens": 3660}
+{"id": "17f99539", "type": "unit_conversion", "correct": true, "extracted": "8.66", "answer": "8.66", "tokens": 2422}
+{"id": "8b0cab23", "type": "numeral", "correct": true, "extracted": "LXVI", "answer": "LXVI", "tokens": 958}
+{"id": "a2099412", "type": "unit_conversion", "correct": true, "extracted": "44.07", "answer": "44.06", "tokens": 1234}
+{"id": "0cb16796", "type": "cipher", "correct": true, "extracted": "mouse explores beyond school", "answer": "mouse explores beyond school", "tokens": 5540}
+{"id": "67372eaf", "type": "bit_manipulation", "correct": true, "extracted": "01101000", "answer": "01101000", "tokens": 6279}
+{"id": "9483f712", "type": "cipher", "correct": true, "extracted": "student imagines the clever crystal", "answer": "student imagines the clever crystal", "tokens": 2986}
+{"id": "b9e9dc9f", "type": "bit_manipulation", "correct": true, "extracted": "00000000", "answer": "00000000", "tokens": 6693}
+{"id": "7d631197", "type": "cipher", "correct": true, "extracted": "teacher creates treasure", "answer": "teacher creates treasure", "tokens": 3344}
+{"id": "8eafcc14", "type": "cipher", "correct": true, "extracted": "knight sees the secret door", "answer": "knight sees the secret door", "tokens": 1578}
+{"id": "59f9b417", "type": "gravity", "correct": true, "extracted": "44.06", "answer": "44.06", "tokens": 3297}
+{"id": "4024acac", "type": "bit_manipulation", "correct": true, "extracted": "00000000", "answer": "00000000", "tokens": 6875}
+{"id": "611c3cc4", "type": "numeral", "correct": true, "extracted": "LII", "answer": "LII", "tokens": 946}
+{"id": "f304e11f", "type": "numeral", "correct": true, "extracted": "VIII", "answer": "VIII", "tokens": 967}
+{"id": "9c16fd02", "type": "numeral", "correct": true, "extracted": "LXXIII", "answer": "LXXIII", "tokens": 989}
+{"id": "649c2246", "type": "gravity", "correct": true, "extracted": "10.27", "answer": "10.27", "tokens": 1559}
+{"id": "0734d679", "type": "cipher", "correct": true, "extracted": "knight dreams key", "answer": "knight dreams key", "tokens": 4490}
+{"id": "99948ad9", "type": "unit_conversion", "correct": true, "extracted": "26.17", "answer": "26.17", "tokens": 2650}
+{"id": "6117f46b", "type": "numeral", "correct": true, "extracted": "XLIX", "answer": "XLIX", "tokens": 940}
+{"id": "9992bbd0", "type": "bit_manipulation", "correct": true, "extracted": "11110110", "answer": "11110110", "tokens": 6256}
+{"id": "50c0b6f8", "type": "equation_numeric_deduce", "correct": true, "extracted": "921", "answer": "921", "tokens": 5810}
+{"id": "572053c7", "type": "gravity", "correct": true, "extracted": "8.3", "answer": "8.3", "tokens": 5419}
+{"id": "91059046", "type": "unit_conversion", "correct": true, "extracted": "43.85", "answer": "43.86", "tokens": 2161}
+{"id": "d7d12d51", "type": "cipher", "correct": true, "extracted": "king explores key", "answer": "king explores key", "tokens": 4798}
+{"id": "a487906f", "type": "cipher", "correct": true, "extracted": "hatter chases the wise key", "answer": "hatter chases the wise key", "tokens": 4212}
+{"id": "fcc6dff6", "type": "bit_manipulation", "correct": true, "extracted": "00111010", "answer": "00111010", "tokens": 6906}
+{"id": "43980e72", "type": "equation_numeric_deduce", "correct": false, "extracted": "<64", "answer": "64", "tokens": 6004}
+{"id": "3465a931", "type": "unit_conversion", "correct": true, "extracted": "43.02", "answer": "43.03", "tokens": 3294}
+{"id": "62464c5a", "type": "bit_manipulation", "correct": true, "extracted": "10111110", "answer": "10111110", "tokens": 6214}
+{"id": "fbda33d1", "type": "unit_conversion", "correct": true, "extracted": "20.91", "answer": "20.90", "tokens": 1676}
+{"id": "3bcb7535", "type": "cipher", "correct": true, "extracted": "the strange turtle sees", "answer": "the strange turtle sees", "tokens": 2247}
+{"id": "6218204f", "type": "bit_manipulation", "correct": false, "extracted": "00111111", "answer": "00110110", "tokens": 7186}
+{"id": "d8479476", "type": "unit_conversion", "correct": true, "extracted": "21.26", "answer": "21.27", "tokens": 3483}
+{"id": "6df91964", "type": "unit_conversion", "correct": true, "extracted": "51.01", "answer": "51.03", "tokens": 2293}
+{"id": "4a374160", "type": "bit_manipulation", "correct": true, "extracted": "00000110", "answer": "00000110", "tokens": 7094}
+{"id": "6d9ff2a3", "type": "bit_manipulation", "correct": true, "extracted": "00110010", "answer": "00110010", "tokens": 6963}
+{"id": "2ed54b3f", "type": "numeral", "correct": true, "extracted": "V", "answer": "V", "tokens": 920}
+{"id": "a316aadc", "type": "bit_manipulation", "correct": true, "extracted": "01010110", "answer": "01010110", "tokens": 6914}
+{"id": "5045ed9a", "type": "cipher", "correct": true, "extracted": "queen explores castle", "answer": "queen explores castle", "tokens": 4412}
+{"id": "6fae6379", "type": "bit_manipulation", "correct": true, "extracted": "01100110", "answer": "01100111", "tokens": 6715}
+{"id": "691608b9", "type": "bit_manipulation", "correct": true, "extracted": "00101000", "answer": "00101000", "tokens": 6747}
+{"id": "2f6f8725", "type": "numeral", "correct": true, "extracted": "XVII", "answer": "XVII", "tokens": 951}
+{"id": "aaafc6bc", "type": "gravity", "correct": true, "extracted": "58.41", "answer": "58.41", "tokens": 2178}
+{"id": "52d3dfa9", "type": "cipher", "correct": true, "extracted": "dragon found beyond forest", "answer": "dragon found beyond forest", "tokens": 6657}
+{"id": "80076e4c", "type": "gravity", "correct": true, "extracted": "144.01", "answer": "144.02", "tokens": 3346}
+{"id": "c7a7b13a", "type": "equation_numeric_deduce", "correct": true, "extracted": "35", "answer": "35", "tokens": 5684}
+{"id": "ce595dcd", "type": "cipher", "correct": true, "extracted": "wizard explores through mountain", "answer": "wizard explores through mountain", "tokens": 3559}
+{"id": "704b4e4c", "type": "unit_conversion", "correct": true, "extracted": "17.16", "answer": "17.17", "tokens": 2124}
+{"id": "562cfc29", "type": "bit_manipulation", "correct": false, "extracted": "01101101", "answer": "11011001", "tokens": 6629}
+{"id": "2b53fea0", "type": "numeral", "correct": true, "extracted": "LXVIII", "answer": "LXVIII", "tokens": 1001}
+{"id": "6de757af", "type": "cipher", "correct": true, "extracted": "the golden cat creates", "answer": "the golden cat creates", "tokens": 1675}
+{"id": "18997574", "type": "numeral", "correct": true, "extracted": "XL", "answer": "XL", "tokens": 910}
+{"id": "1111a663", "type": "cipher", "correct": true, "extracted": "the secret dragon draws", "answer": "the secret dragon draws", "tokens": 2181}
+{"id": "d7032308", "type": "gravity", "correct": true, "extracted": "186.4", "answer": "186.4", "tokens": 4967}
+{"id": "de11a23a", "type": "bit_manipulation", "correct": true, "extracted": "00000001", "answer": "00000001", "tokens": 7077}
+{"id": "d46df3b0", "type": "equation_numeric_deduce", "correct": true, "extracted": "3955", "answer": "3955", "tokens": 6064}
+{"id": "84e9f6ff", "type": "gravity", "correct": true, "extracted": "58.89", "answer": "58.89", "tokens": 3096}
+{"id": "a24c4fc9", "type": "unit_conversion", "correct": true, "extracted": "16.19", "answer": "16.19", "tokens": 1727}
+{"id": "a828788b", "type": "gravity", "correct": true, "extracted": "46.76", "answer": "46.76", "tokens": 3550}
+{"id": "49578b02", "type": "equation_numeric_deduce", "correct": true, "extracted": "39", "answer": "39", "tokens": 5479}
+{"id": "92402574", "type": "cipher", "correct": true, "extracted": "queen draws the curious mirror", "answer": "queen draws the curious mirror", "tokens": 3264}
+{"id": "364f1279", "type": "cipher", "correct": true, "extracted": "bird draws mirror", "answer": "bird draws mirror", "tokens": 3236}
+{"id": "939273d7", "type": "bit_manipulation", "correct": true, "extracted": "11100110", "answer": "11100110", "tokens": 6638}
+{"id": "50c066b0", "type": "cipher", "correct": false, "extracted": "the colorful rabbit found the message", "answer": "rabbit found the colorful message", "tokens": 5199}
+{"id": "29b79c2b", "type": "unit_conversion", "correct": false, "extracted": "9.74", "answer": "9.75", "tokens": 3127}
+{"id": "0d3974ba", "type": "unit_conversion", "correct": true, "extracted": "40.11", "answer": "40.11", "tokens": 2499}
+{"id": "1369abb7", "type": "cipher", "correct": true, "extracted": "bird reads above castle", "answer": "bird reads above castle", "tokens": 4796}
+{"id": "eba7188d", "type": "unit_conversion", "correct": true, "extracted": "20.11", "answer": "20.11", "tokens": 1485}
+{"id": "31a69bdb", "type": "numeral", "correct": true, "extracted": "XLIII", "answer": "XLIII", "tokens": 953}
+{"id": "9e02ebd7", "type": "numeral", "correct": true, "extracted": "XXXVI", "answer": "XXXVI", "tokens": 976}
+{"id": "9846834b", "type": "gravity", "correct": true, "extracted": "70.46", "answer": "70.45", "tokens": 3376}
+{"id": "32e5fe87", "type": "bit_manipulation", "correct": true, "extracted": "00000000", "answer": "00000000", "tokens": 6640}
+{"id": "a4f9e327", "type": "unit_conversion", "correct": true, "extracted": "81.38", "answer": "81.42", "tokens": 1839}
+{"id": "7760ffcd", "type": "unit_conversion", "correct": true, "extracted": "67.85", "answer": "67.80", "tokens": 2937}
+{"id": "48515906", "type": "gravity", "correct": true, "extracted": "65.36", "answer": "65.37", "tokens": 4324}
+{"id": "509fbcce", "type": "numeral", "correct": true, "extracted": "XXXIV", "answer": "XXXIV", "tokens": 970}
+{"id": "6540cf61", "type": "gravity", "correct": true, "extracted": "120.57", "answer": "120.57", "tokens": 5262}
+{"id": "fa34cd1e", "type": "gravity", "correct": true, "extracted": "67.23", "answer": "67.23", "tokens": 2053}
+{"id": "b5b9c138", "type": "bit_manipulation", "correct": true, "extracted": "00100001", "answer": "00100001", "tokens": 7035}
+{"id": "2ee6c3f2", "type": "unit_conversion", "correct": true, "extracted": "56.88", "answer": "56.87", "tokens": 2092}
+{"id": "e43d067d", "type": "numeral", "correct": true, "extracted": "LII", "answer": "LII", "tokens": 939}
+{"id": "5b1b10d3", "type": "bit_manipulation", "correct": false, "extracted": "7", "answer": "01010010", "tokens": 7680}
+{"id": "5857f1d0", "type": "unit_conversion", "correct": true, "extracted": "25.80", "answer": "25.79", "tokens": 1868}
+{"id": "9b9e024b", "type": "equation_numeric_deduce", "correct": true, "extracted": "421", "answer": "421", "tokens": 5608}
+{"id": "8de73924", "type": "cipher", "correct": true, "extracted": "rabbit studies above village", "answer": "rabbit studies above village", "tokens": 2436}
+{"id": "9f06483b", "type": "unit_conversion", "correct": true, "extracted": "32.10", "answer": "32.10", "tokens": 3026}
+{"id": "3f4f7b9b", "type": "bit_manipulation", "correct": false, "extracted": "0?111111", "answer": "01111111", "tokens": 5926}
+{"id": "177d60f2", "type": "gravity", "correct": true, "extracted": "64.59", "answer": "64.58", "tokens": 3630}
+{"id": "a0040ad5", "type": "numeral", "correct": true, "extracted": "VIII", "answer": "VIII", "tokens": 960}
+{"id": "aa64b0e6", "type": "cipher", "correct": true, "extracted": "hatter studies the hidden puzzle", "answer": "hatter studies the hidden puzzle", "tokens": 2709}
+{"id": "f05f2f50", "type": "unit_conversion", "correct": true, "extracted": "48.79", "answer": "48.80", "tokens": 2435}
+{"id": "48d20d0e", "type": "numeral", "correct": true, "extracted": "XVI", "answer": "XVI", "tokens": 946}
+{"id": "c3edc57d", "type": "cipher", "correct": true, "extracted": "teacher draws under palace", "answer": "teacher draws under palace", "tokens": 2348}
+{"id": "d01b69aa", "type": "cipher", "correct": true, "extracted": "queen studies potion", "answer": "queen studies potion", "tokens": 4493}
+{"id": "7528ad60", "type": "unit_conversion", "correct": true, "extracted": "16.37", "answer": "16.38", "tokens": 1737}
+{"id": "30c0d5a2", "type": "equation_numeric_deduce", "correct": true, "extracted": "76", "answer": "76", "tokens": 5514}
+{"id": "680f19b3", "type": "equation_numeric_deduce", "correct": true, "extracted": "9756", "answer": "9756", "tokens": 5859}
+{"id": "492fa295", "type": "cipher", "correct": true, "extracted": "princess found the dark crystal", "answer": "princess found the dark crystal", "tokens": 3856}
+{"id": "d5c5d624", "type": "bit_manipulation", "correct": true, "extracted": "01010000", "answer": "01010000", "tokens": 6957}
+{"id": "7cc61ea9", "type": "bit_manipulation", "correct": true, "extracted": "10100101", "answer": "10100101", "tokens": 7030}
+{"id": "ae50c309", "type": "unit_conversion", "correct": true, "extracted": "25.33", "answer": "25.33", "tokens": 1182}
+{"id": "c3d2893c", "type": "cipher", "correct": true, "extracted": "princess writes the dark mirror", "answer": "princess writes the dark mirror", "tokens": 4405}
+{"id": "1340260d", "type": "numeral", "correct": true, "extracted": "LXVII", "answer": "LXVII", "tokens": 989}
+{"id": "049be61b", "type": "cipher", "correct": true, "extracted": "the mysterious student imagines", "answer": "the mysterious student imagines", "tokens": 3649}
+{"id": "7af6e047", "type": "bit_manipulation", "correct": true, "extracted": "11001110", "answer": "11001110", "tokens": 6937}
+{"id": "8fc9cb66", "type": "gravity", "correct": true, "extracted": "9.87", "answer": "9.87", "tokens": 2390}
+{"id": "fdb8ef71", "type": "unit_conversion", "correct": true, "extracted": "86.82", "answer": "86.86", "tokens": 3633}
+{"id": "aa625771", "type": "bit_manipulation", "correct": true, "extracted": "11111111", "answer": "11111111", "tokens": 7088}
+{"id": "76faca6d", "type": "cipher", "correct": true, "extracted": "teacher watches key", "answer": "teacher watches key", "tokens": 3011}
+{"id": "e738b135", "type": "unit_conversion", "correct": true, "extracted": "69.84", "answer": "69.86", "tokens": 2050}
+{"id": "7a73d9ab", "type": "cipher", "correct": true, "extracted": "the clever rabbit studies", "answer": "the clever rabbit studies", "tokens": 3117}
+{"id": "3066fcb2", "type": "cipher", "correct": true, "extracted": "student writes the bright puzzle", "answer": "student writes the bright puzzle", "tokens": 4760}
+{"id": "3cfc5f9c", "type": "bit_manipulation", "correct": true, "extracted": "01110111", "answer": "01110111", "tokens": 6375}
+{"id": "a97dbf6e", "type": "cipher", "correct": true, "extracted": "the clever mouse watches", "answer": "the clever mouse watches", "tokens": 3406}
+{"id": "61766c6f", "type": "equation_numeric_deduce", "correct": true, "extracted": "2572", "answer": "2572", "tokens": 5596}
+{"id": "d303ae8e", "type": "equation_numeric_deduce", "correct": true, "extracted": "39", "answer": "39", "tokens": 5548}
+{"id": "5e591674", "type": "bit_manipulation", "correct": false, "extracted": "11000011", "answer": "00000011", "tokens": 7177}
+{"id": "0b5d02f4", "type": "gravity", "correct": true, "extracted": "29.19", "answer": "29.19", "tokens": 4374}
+{"id": "db7b3454", "type": "cipher", "correct": true, "extracted": "the mysterious bird found", "answer": "the mysterious bird found", "tokens": 3435}
+{"id": "c564145e", "type": "cipher", "correct": true, "extracted": "king writes forest", "answer": "king writes forest", "tokens": 2608}
+{"id": "ce064ad8", "type": "cipher", "correct": true, "extracted": "dragon imagines treasure", "answer": "dragon imagines treasure", "tokens": 2109}
+{"id": "d87caad1", "type": "bit_manipulation", "correct": false, "extracted": "11101110", "answer": "10101111", "tokens": 6599}
+{"id": "16a09dd6", "type": "gravity", "correct": true, "extracted": "93.87", "answer": "93.89", "tokens": 2890}
+{"id": "5fe8d710", "type": "equation_numeric_deduce", "correct": true, "extracted": "281", "answer": "281", "tokens": 5853}
+{"id": "a705689b", "type": "unit_conversion", "correct": true, "extracted": "31.68", "answer": "31.71", "tokens": 2396}
+{"id": "53053cdf", "type": "cipher", "correct": true, "extracted": "teacher follows the magical door", "answer": "teacher follows the magical door", "tokens": 1985}
+{"id": "b163a1ab", "type": "cipher", "correct": true, "extracted": "the clever turtle sees", "answer": "the clever turtle sees", "tokens": 3414}
+{"id": "d1611217", "type": "cipher", "correct": true, "extracted": "dragon follows beyond mountain", "answer": "dragon follows beyond mountain", "tokens": 3345}
+{"id": "f929abdc", "type": "numeral", "correct": true, "extracted": "XCIV", "answer": "XCIV", "tokens": 938}
+{"id": "ce5367dc", "type": "cipher", "correct": true, "extracted": "the clever knight chases", "answer": "the clever knight chases", "tokens": 3821}
+{"id": "d4483d51", "type": "equation_numeric_deduce", "correct": true, "extracted": "3752", "answer": "3752", "tokens": 5936}
+{"id": "e4ac1777", "type": "cipher", "correct": true, "extracted": "the colorful hatter studies", "answer": "the colorful hatter studies", "tokens": 2359}
+{"id": "635c7924", "type": "unit_conversion", "correct": true, "extracted": "32.19", "answer": "32.19", "tokens": 2365}
+{"id": "b655eee9", "type": "equation_numeric_deduce", "correct": true, "extracted": "-92", "answer": "-92", "tokens": 5878}
+{"id": "4cab24aa", "type": "numeral", "correct": true, "extracted": "XXXII", "answer": "XXXII", "tokens": 975}
+{"id": "e02a19fe", "type": "unit_conversion", "correct": true, "extracted": "10.53", "answer": "10.53", "tokens": 2555}
+{"id": "98031059", "type": "unit_conversion", "correct": true, "extracted": "36.63", "answer": "36.62", "tokens": 951}
+{"id": "21c09ced", "type": "numeral", "correct": true, "extracted": "LXXXVII", "answer": "LXXXVII", "tokens": 1004}
+{"id": "b558c74d", "type": "bit_manipulation", "correct": true, "extracted": "10100101", "answer": "10100101", "tokens": 6779}
+{"id": "d9516e43", "type": "numeral", "correct": true, "extracted": "IX", "answer": "IX", "tokens": 917}
+{"id": "2dcb7ec6", "type": "bit_manipulation", "correct": true, "extracted": "10110000", "answer": "10110000", "tokens": 6810}
+{"id": "4145ec70", "type": "bit_manipulation", "correct": true, "extracted": "11000111", "answer": "11000111", "tokens": 6227}
+{"id": "3201222f", "type": "unit_conversion", "correct": true, "extracted": "57.81", "answer": "57.83", "tokens": 3228}
+{"id": "76f3250f", "type": "gravity", "correct": true, "extracted": "70.75", "answer": "70.74", "tokens": 5015}
+{"id": "b331a0c2", "type": "cipher", "correct": true, "extracted": "king follows puzzle", "answer": "king follows puzzle", "tokens": 3890}
+{"id": "f0007ca0", "type": "bit_manipulation", "correct": true, "extracted": "11000110", "answer": "11000110", "tokens": 6548}
+{"id": "1bcd2b16", "type": "bit_manipulation", "correct": false, "extracted": "01100101", "answer": "00000101", "tokens": 6713}
+{"id": "7cf481af", "type": "gravity", "correct": true, "extracted": "15.34", "answer": "15.34", "tokens": 2877}
+{"id": "14ecec31", "type": "numeral", "correct": true, "extracted": "XXXIV", "answer": "XXXIV", "tokens": 977}
+{"id": "c31c1019", "type": "cipher", "correct": false, "extracted": "cat beyond", "answer": "cat follows forest", "tokens": 4617}
+{"id": "4f27a061", "type": "bit_manipulation", "correct": true, "extracted": "00011110", "answer": "00011110", "tokens": 6351}
+{"id": "d35b279d", "type": "gravity", "correct": true, "extracted": "24.68", "answer": "24.69", "tokens": 3259}
+{"id": "b99bdad1", "type": "cipher", "correct": true, "extracted": "the golden queen watches", "answer": "the golden queen watches", "tokens": 4608}
+{"id": "619e00cc", "type": "gravity", "correct": true, "extracted": "17.93", "answer": "17.93", "tokens": 3469}
+{"id": "16b45644", "type": "gravity", "correct": true, "extracted": "98.34", "answer": "98.35", "tokens": 4119}
+{"id": "aae573ff", "type": "cipher", "correct": true, "extracted": "dragon creates treasure", "answer": "dragon creates treasure", "tokens": 2018}
+{"id": "37ad2b0b", "type": "unit_conversion", "correct": true, "extracted": "17.77", "answer": "17.77", "tokens": 2821}
+{"id": "8fe3cb9b", "type": "numeral", "correct": true, "extracted": "VI", "answer": "VI", "tokens": 929}
+{"id": "354e4fb6", "type": "numeral", "correct": true, "extracted": "LXXXIX", "answer": "LXXXIX", "tokens": 977}
+{"id": "67760414", "type": "gravity", "correct": true, "extracted": "57.06", "answer": "57.06", "tokens": 4213}
+{"id": "3385a400", "type": "bit_manipulation", "correct": true, "extracted": "11000111", "answer": "11000111", "tokens": 7468}
+{"id": "94d5d7dd", "type": "cipher", "correct": true, "extracted": "dragon follows book", "answer": "dragon follows book", "tokens": 3700}
+{"id": "ad599007", "type": "unit_conversion", "correct": true, "extracted": "18.11", "answer": "18.11", "tokens": 2043}
+{"id": "e34cc6dd", "type": "bit_manipulation", "correct": true, "extracted": "00000001", "answer": "00000001", "tokens": 6556}
+{"id": "c095f799", "type": "bit_manipulation", "correct": false, "extracted": "40", "answer": "10011111", "tokens": 7680}
+{"id": "cf250a13", "type": "cipher", "correct": true, "extracted": "the magical knight reads", "answer": "the magical knight reads", "tokens": 3799}
+{"id": "8fbd2477", "type": "bit_manipulation", "correct": true, "extracted": "01011010", "answer": "01011010", "tokens": 6726}
+{"id": "6e56c02c", "type": "bit_manipulation", "correct": true, "extracted": "01001010", "answer": "01001011", "tokens": 6702}
+{"id": "e560f574", "type": "gravity", "correct": true, "extracted": "21.07", "answer": "21.06", "tokens": 3705}
+{"id": "fe393711", "type": "equation_numeric_deduce", "correct": true, "extracted": "1291", "answer": "1291", "tokens": 5709}
+{"id": "a4506faf", "type": "unit_conversion", "correct": true, "extracted": "24.78", "answer": "24.79", "tokens": 2392}
+{"id": "336399f4", "type": "numeral", "correct": true, "extracted": "LXXIV", "answer": "LXXIV", "tokens": 959}
+{"id": "808a8f62", "type": "equation_numeric_deduce", "correct": true, "extracted": "62", "answer": "62", "tokens": 6451}
+{"id": "0e745bd8", "type": "numeral", "correct": true, "extracted": "XXXIII", "answer": "XXXIII", "tokens": 997}
+{"id": "df19097a", "type": "unit_conversion", "correct": true, "extracted": "60.48", "answer": "60.52", "tokens": 1673}
+{"id": "eea91b82", "type": "bit_manipulation", "correct": false, "extracted": "00110111", "answer": "00101111", "tokens": 7320}
+{"id": "5d311551", "type": "cipher", "correct": true, "extracted": "the ancient alice writes", "answer": "the ancient alice writes", "tokens": 1733}
+{"id": "a28a4dff", "type": "cipher", "correct": true, "extracted": "mouse dreams through island", "answer": "mouse dreams through island", "tokens": 1884}
+{"id": "4e5fa95b", "type": "equation_numeric_deduce", "correct": false, "extracted": "1594", "answer": "86", "tokens": 6134}
+{"id": "8c9fcc6b", "type": "bit_manipulation", "correct": true, "extracted": "11110111", "answer": "11110111", "tokens": 6429}
+{"id": "3bda588a", "type": "bit_manipulation", "correct": true, "extracted": "10111111", "answer": "10111111", "tokens": 6919}
+{"id": "5473bb28", "type": "cipher", "correct": true, "extracted": "mouse draws beyond school", "answer": "mouse draws beyond school", "tokens": 3439}
+{"id": "691f2f76", "type": "equation_numeric_deduce", "correct": true, "extracted": "331", "answer": "331", "tokens": 6138}
+{"id": "f4f27085", "type": "bit_manipulation", "correct": true, "extracted": "11100101", "answer": "11100101", "tokens": 6411}
+{"id": "1deaf759", "type": "bit_manipulation", "correct": true, "extracted": "10100111", "answer": "10100111", "tokens": 7030}
+{"id": "e4351236", "type": "cipher", "correct": true, "extracted": "mouse explores the wise crystal", "answer": "mouse explores the wise crystal", "tokens": 4000}
+{"id": "8ed5c9e7", "type": "bit_manipulation", "correct": true, "extracted": "11101110", "answer": "11101110", "tokens": 7140}
+{"id": "ef544a25", "type": "unit_conversion", "correct": true, "extracted": "78.74", "answer": "78.76", "tokens": 2171}
+{"id": "f58232a6", "type": "unit_conversion", "correct": true, "extracted": "39.10", "answer": "39.12", "tokens": 1991}
+{"id": "91b34547", "type": "equation_numeric_deduce", "correct": true, "extracted": "-84", "answer": "-84", "tokens": 5532}
+{"id": "95dd49e1", "type": "cipher", "correct": true, "extracted": "mouse sees the clever mirror", "answer": "mouse sees the clever mirror", "tokens": 3909}
+{"id": "cf9195dc", "type": "cipher", "correct": true, "extracted": "the dark rabbit draws", "answer": "the dark rabbit draws", "tokens": 1919}
+{"id": "14a31439", "type": "cipher", "correct": true, "extracted": "student writes around tower", "answer": "student writes around tower", "tokens": 4386}
+{"id": "52c19a82", "type": "numeral", "correct": true, "extracted": "LXXXV", "answer": "LXXXV", "tokens": 978}
+{"id": "ff1518be", "type": "numeral", "correct": true, "extracted": "XXXVII", "answer": "XXXVII", "tokens": 1006}
+{"id": "70e6ddcc", "type": "unit_conversion", "correct": true, "extracted": "24.55", "answer": "24.55", "tokens": 1873}
+{"id": "6f37d7be", "type": "equation_numeric_deduce", "correct": true, "extracted": "01", "answer": "01", "tokens": 6908}
+{"id": "b3ab21d2", "type": "unit_conversion", "correct": true, "extracted": "15.20", "answer": "15.19", "tokens": 1948}
+{"id": "2411f83a", "type": "cipher", "correct": true, "extracted": "wizard explores book", "answer": "wizard explores book", "tokens": 5106}
+{"id": "8647cfb4", "type": "bit_manipulation", "correct": true, "extracted": "00101011", "answer": "00101011", "tokens": 6227}
+{"id": "a0847120", "type": "bit_manipulation", "correct": true, "extracted": "10000111", "answer": "10000111", "tokens": 7008}
+{"id": "331f4d30", "type": "gravity", "correct": true, "extracted": "57.29", "answer": "57.29", "tokens": 4088}
+{"id": "a59e2ff7", "type": "bit_manipulation", "correct": true, "extracted": "01011111", "answer": "01011111", "tokens": 6739}
+{"id": "1580f498", "type": "equation_numeric_deduce", "correct": true, "extracted": "1554", "answer": "1554", "tokens": 5816}
+{"id": "c7660833", "type": "bit_manipulation", "correct": true, "extracted": "01010000", "answer": "01010000", "tokens": 6413}
+{"id": "4313506c", "type": "cipher", "correct": true, "extracted": "dragon found the clever key", "answer": "dragon found the clever key", "tokens": 3085}
+{"id": "ac5f6747", "type": "bit_manipulation", "correct": true, "extracted": "00011001", "answer": "00011001", "tokens": 6909}
+{"id": "5a343705", "type": "cipher", "correct": true, "extracted": "rabbit imagines door", "answer": "rabbit imagines door", "tokens": 3006}
+{"id": "7f4eb498", "type": "cipher", "correct": true, "extracted": "mouse dreams the golden potion", "answer": "mouse dreams the golden potion", "tokens": 4019}
+{"id": "24acf4d9", "type": "numeral", "correct": true, "extracted": "LXXXVIII", "answer": "LXXXVIII", "tokens": 1019}
+{"id": "e8f32d12", "type": "gravity", "correct": true, "extracted": "53.32", "answer": "53.31", "tokens": 2843}
+{"id": "4ef3d311", "type": "bit_manipulation", "correct": true, "extracted": "00000001", "answer": "00000001", "tokens": 7079}
+{"id": "b5fdebcc", "type": "gravity", "correct": true, "extracted": "80.0", "answer": "80.01", "tokens": 3007}
+{"id": "7f2e9684", "type": "gravity", "correct": true, "extracted": "17.06", "answer": "17.06", "tokens": 4244}
+{"id": "05d90bdf", "type": "cipher", "correct": true, "extracted": "king writes inside mountain", "answer": "king writes inside mountain", "tokens": 2062}
+{"id": "5df8a2f5", "type": "unit_conversion", "correct": true, "extracted": "34.00", "answer": "34.01", "tokens": 1919}
+{"id": "da7f04b5", "type": "cipher", "correct": true, "extracted": "cat follows the magical potion", "answer": "cat follows the magical potion", "tokens": 6264}
+{"id": "412a209f", "type": "equation_numeric_deduce", "correct": true, "extracted": "3032", "answer": "3032", "tokens": 5629}
+{"id": "c2985c8e", "type": "bit_manipulation", "correct": false, "extracted": "11111111", "answer": "11001111", "tokens": 6840}
+{"id": "fe407d0f", "type": "cipher", "correct": true, "extracted": "cat studies the silver message", "answer": "cat studies the silver message", "tokens": 4616}
+{"id": "057fa18f", "type": "gravity", "correct": true, "extracted": "23.87", "answer": "23.87", "tokens": 4414}
+{"id": "ab574811", "type": "cipher", "correct": true, "extracted": "dragon follows key", "answer": "dragon follows key", "tokens": 3845}
+{"id": "6e2f2d29", "type": "cipher", "correct": true, "extracted": "princess found near mountain", "answer": "princess found near mountain", "tokens": 2451}
+{"id": "c964ad34", "type": "numeral", "correct": true, "extracted": "XX", "answer": "XX", "tokens": 927}
+{"id": "936b3ae5", "type": "equation_numeric_deduce", "correct": false, "extracted": "14", "answer": "14>", "tokens": 6538}
+{"id": "fa4a1468", "type": "gravity", "correct": true, "extracted": "79.88", "answer": "79.88", "tokens": 2228}
+{"id": "2b16044a", "type": "bit_manipulation", "correct": false, "extracted": "51", "answer": "00011111", "tokens": 7680}
+{"id": "72b15a2a", "type": "cipher", "correct": true, "extracted": "rabbit watches castle", "answer": "rabbit watches castle", "tokens": 2124}
+{"id": "2fd84b39", "type": "numeral", "correct": true, "extracted": "XCII", "answer": "XCII", "tokens": 954}
+{"id": "51a78467", "type": "bit_manipulation", "correct": true, "extracted": "11000111", "answer": "11000111", "tokens": 6679}
+{"id": "2c34ec23", "type": "gravity", "correct": true, "extracted": "5.48", "answer": "5.48", "tokens": 4073}
+{"id": "6fe4a872", "type": "cipher", "correct": true, "extracted": "hatter draws crystal", "answer": "hatter draws crystal", "tokens": 3551}
+{"id": "1fb05006", "type": "gravity", "correct": true, "extracted": "100.75", "answer": "100.72", "tokens": 4502}
+{"id": "249ec418", "type": "cipher", "correct": true, "extracted": "the wise teacher reads", "answer": "the wise teacher reads", "tokens": 2581}
+{"id": "0cc8d7c2", "type": "gravity", "correct": true, "extracted": "29.44", "answer": "29.44", "tokens": 2825}
+{"id": "4c57a53f", "type": "equation_numeric_deduce", "correct": false, "extracted": "04", "answer": "[4", "tokens": 6310}
+{"id": "e4b6ce82", "type": "equation_numeric_deduce", "correct": true, "extracted": "669", "answer": "669", "tokens": 5791}
+{"id": "7447875a", "type": "cipher", "correct": true, "extracted": "bird studies door", "answer": "bird studies door", "tokens": 2613}
+{"id": "557c54fb", "type": "cipher", "correct": true, "extracted": "mouse explores under island", "answer": "mouse explores under island", "tokens": 3051}
+{"id": "aa2e26f1", "type": "bit_manipulation", "correct": false, "extracted": "10011001", "answer": "00001100", "tokens": 6730}
+{"id": "49743645", "type": "equation_numeric_deduce", "correct": true, "extracted": "1396", "answer": "1396", "tokens": 5715}
+{"id": "bae87600", "type": "cipher", "correct": true, "extracted": "king writes near forest", "answer": "king writes near forest", "tokens": 2777}
+{"id": "96291987", "type": "cipher", "correct": true, "extracted": "mouse explores in village", "answer": "mouse explores in village", "tokens": 3519}
+{"id": "49b244e3", "type": "cipher", "correct": true, "extracted": "king watches the bright crystal", "answer": "king watches the bright crystal", "tokens": 3553}
+{"id": "6890870d", "type": "bit_manipulation", "correct": true, "extracted": "01110000", "answer": "01110000", "tokens": 6772}
+{"id": "124bc762", "type": "bit_manipulation", "correct": true, "extracted": "11110111", "answer": "11100010", "tokens": 7335}
+{"id": "6e44fdb5", "type": "gravity", "correct": true, "extracted": "47.03", "answer": "47.04", "tokens": 2429}
+{"id": "05c38073", "type": "unit_conversion", "correct": true, "extracted": "15.63", "answer": "15.62", "tokens": 3405}
+{"id": "5923c8f6", "type": "unit_conversion", "correct": true, "extracted": "27.60", "answer": "27.62", "tokens": 2185}
+{"id": "07cbed38", "type": "equation_numeric_deduce", "correct": true, "extracted": "93", "answer": "93", "tokens": 5621}
+{"id": "971d2540", "type": "cipher", "correct": true, "extracted": "the ancient rabbit reads", "answer": "the ancient rabbit reads", "tokens": 2271}
+{"id": "ab5f7c7f", "type": "bit_manipulation", "correct": true, "extracted": "11110110", "answer": "11110110", "tokens": 6900}
+{"id": "439c723a", "type": "gravity", "correct": true, "extracted": "14.48", "answer": "14.48", "tokens": 2388}
+{"id": "9cd307c7", "type": "cipher", "correct": true, "extracted": "rabbit draws the silver secret", "answer": "rabbit draws the silver secret", "tokens": 4319}
+{"id": "f2a167e5", "type": "bit_manipulation", "correct": true, "extracted": "10101110", "answer": "10101110", "tokens": 7270}
+{"id": "d8f40319", "type": "gravity", "correct": true, "extracted": "72.45", "answer": "72.46", "tokens": 5487}
+{"id": "63caef96", "type": "numeral", "correct": true, "extracted": "XXV", "answer": "XXV", "tokens": 950}
+{"id": "36300e18", "type": "bit_manipulation", "correct": true, "extracted": "10011101", "answer": "10011101", "tokens": 6399}
+{"id": "358eec3b", "type": "unit_conversion", "correct": true, "extracted": "53.00", "answer": "53.03", "tokens": 1233}
+{"id": "a9cc9eee", "type": "numeral", "correct": true, "extracted": "XCVII", "answer": "XCVII", "tokens": 975}
+{"id": "b8e4d24d", "type": "gravity", "correct": true, "extracted": "106.59", "answer": "106.61", "tokens": 3254}
+{"id": "e6737768", "type": "cipher", "correct": true, "extracted": "teacher studies the dark forest", "answer": "teacher studies the dark forest", "tokens": 4090}
+{"id": "c0f7a38b", "type": "cipher", "correct": true, "extracted": "teacher discovers map", "answer": "teacher discovers map", "tokens": 3830}
+{"id": "2fed9ceb", "type": "bit_manipulation", "correct": true, "extracted": "11111001", "answer": "11111001", "tokens": 6609}
+{"id": "a9c3ff5d", "type": "numeral", "correct": true, "extracted": "XCV", "answer": "XCV", "tokens": 942}
+{"id": "d8b028ad", "type": "unit_conversion", "correct": true, "extracted": "27.38", "answer": "27.39", "tokens": 1884}
+{"id": "2bf76506", "type": "unit_conversion", "correct": true, "extracted": "37.85", "answer": "37.85", "tokens": 3579}
+{"id": "845a4a02", "type": "unit_conversion", "correct": true, "extracted": "44.37", "answer": "44.38", "tokens": 2587}
+{"id": "c6f514af", "type": "cipher", "correct": true, "extracted": "teacher reads secret", "answer": "teacher reads secret", "tokens": 2406}
+{"id": "279e83b8", "type": "cipher", "correct": true, "extracted": "knight reads the dark puzzle", "answer": "knight reads the dark puzzle", "tokens": 5492}
+{"id": "8a5742e1", "type": "bit_manipulation", "correct": true, "extracted": "00010000", "answer": "00010000", "tokens": 6657}
+{"id": "3131bfb3", "type": "bit_manipulation", "correct": true, "extracted": "11111101", "answer": "11111101", "tokens": 7089}
+{"id": "5e5ebad6", "type": "cipher", "correct": true, "extracted": "the magical king follows", "answer": "the magical king follows", "tokens": 1646}
+{"id": "4b894fde", "type": "cipher", "correct": true, "extracted": "the colorful hatter draws", "answer": "the colorful hatter draws", "tokens": 2467}
+{"id": "ddc5aefe", "type": "bit_manipulation", "correct": true, "extracted": "00000001", "answer": "00000001", "tokens": 6213}
+{"id": "77804b32", "type": "bit_manipulation", "correct": true, "extracted": "00010110", "answer": "00010110", "tokens": 7132}
+{"id": "861f02de", "type": "numeral", "correct": true, "extracted": "XVII", "answer": "XVII", "tokens": 959}
+{"id": "e6f974e9", "type": "gravity", "correct": true, "extracted": "169.02", "answer": "169.02", "tokens": 4011}
+{"id": "48ae04f6", "type": "bit_manipulation", "correct": true, "extracted": "00000010", "answer": "00000010", "tokens": 7114}
+{"id": "8a0867ce", "type": "bit_manipulation", "correct": true, "extracted": "01110111", "answer": "01110111", "tokens": 6973}
+{"id": "9f00559b", "type": "cipher", "correct": true, "extracted": "cat explores garden", "answer": "cat explores garden", "tokens": 2532}
+{"id": "7973c1b7", "type": "bit_manipulation", "correct": true, "extracted": "11000111", "answer": "11000111", "tokens": 7249}
+{"id": "3624fa25", "type": "unit_conversion", "correct": true, "extracted": "12.07", "answer": "12.07", "tokens": 1533}
+{"id": "a0f78caa", "type": "cipher", "correct": true, "extracted": "bird discovers potion", "answer": "bird discovers potion", "tokens": 3142}
+{"id": "c23b8942", "type": "cipher", "correct": true, "extracted": "king imagines the dark potion", "answer": "king imagines the dark potion", "tokens": 4420}
+{"id": "e8f79d26", "type": "bit_manipulation", "correct": true, "extracted": "00110101", "answer": "00110101", "tokens": 6812}
+{"id": "5fd417b3", "type": "gravity", "correct": true, "extracted": "53.25", "answer": "53.25", "tokens": 3912}
+{"id": "1d342a52", "type": "bit_manipulation", "correct": true, "extracted": "10110010", "answer": "10110010", "tokens": 6334}
+{"id": "6a5c65fd", "type": "numeral", "correct": true, "extracted": "LI", "answer": "LI", "tokens": 933}
+{"id": "99d345d9", "type": "cipher", "correct": true, "extracted": "teacher creates beyond ocean", "answer": "teacher creates beyond ocean", "tokens": 3287}
+{"id": "0ceac403", "type": "bit_manipulation", "correct": true, "extracted": "10100000", "answer": "10100000", "tokens": 6292}
+{"id": "81c7ba7a", "type": "equation_numeric_deduce", "correct": true, "extracted": "?14", "answer": "?14", "tokens": 5616}
+{"id": "bde0e318", "type": "cipher", "correct": true, "extracted": "mouse studies secret", "answer": "mouse studies secret", "tokens": 2019}
+{"id": "a3c3be4d", "type": "cipher", "correct": true, "extracted": "dragon watches near cave", "answer": "dragon watches near cave", "tokens": 2934}
+{"id": "b03ab026", "type": "equation_numeric_deduce", "correct": true, "extracted": "74", "answer": "74", "tokens": 5595}
+{"id": "b07b312a", "type": "numeral", "correct": true, "extracted": "XLV", "answer": "XLV", "tokens": 941}
+{"id": "49c79cfa", "type": "gravity", "correct": true, "extracted": "91.96", "answer": "91.97", "tokens": 2453}
+{"id": "af7b42d2", "type": "cipher", "correct": true, "extracted": "cat reads inside island", "answer": "cat reads inside island", "tokens": 1851}
+{"id": "6f91481e", "type": "bit_manipulation", "correct": true, "extracted": "11000000", "answer": "11000000", "tokens": 7013}
+{"id": "50eab1a0", "type": "gravity", "correct": true, "extracted": "133.54", "answer": "133.55", "tokens": 4898}
+{"id": "843617ae", "type": "gravity", "correct": true, "extracted": "78.66", "answer": "78.64", "tokens": 2799}
+{"id": "02473b23", "type": "gravity", "correct": true, "extracted": "55.52", "answer": "55.52", "tokens": 3803}
+{"id": "3f1b05f3", "type": "bit_manipulation", "correct": true, "extracted": "11100011", "answer": "11100011", "tokens": 6734}
+{"id": "1c2a3c5b", "type": "bit_manipulation", "correct": true, "extracted": "00000000", "answer": "00000000", "tokens": 6808}
+{"id": "69bac3cd", "type": "cipher", "correct": true, "extracted": "mouse chases treasure", "answer": "mouse chases treasure", "tokens": 2488}
+{"id": "1723747c", "type": "cipher", "correct": true, "extracted": "the strange teacher discovers", "answer": "the strange teacher discovers", "tokens": 3293}
+{"id": "a4770481", "type": "bit_manipulation", "correct": true, "extracted": "10000111", "answer": "10000111", "tokens": 7129}
+{"id": "09a80640", "type": "gravity", "correct": true, "extracted": "165.19", "answer": "165.19", "tokens": 5010}
+{"id": "1520fb1d", "type": "gravity", "correct": true, "extracted": "79.16", "answer": "79.16", "tokens": 3819}
+{"id": "cb5fa22d", "type": "equation_numeric_deduce", "correct": true, "extracted": "8007", "answer": "8007", "tokens": 5594}
+{"id": "65a42d6a", "type": "gravity", "correct": true, "extracted": "87.62", "answer": "87.62", "tokens": 3116}
+{"id": "2bd4edeb", "type": "cipher", "correct": true, "extracted": "the wise hatter draws", "answer": "the wise hatter draws", "tokens": 1964}
+{"id": "1c566511", "type": "bit_manipulation", "correct": true, "extracted": "01010010", "answer": "01010010", "tokens": 6910}
+{"id": "d9069e8f", "type": "unit_conversion", "correct": true, "extracted": "20.63", "answer": "20.62", "tokens": 2428}
+{"id": "62da6274", "type": "cipher", "correct": true, "extracted": "the clever knight watches", "answer": "the clever knight watches", "tokens": 4312}
+{"id": "baabcbe5", "type": "cipher", "correct": true, "extracted": "teacher follows near ocean", "answer": "teacher follows near ocean", "tokens": 2135}
+{"id": "18ad64a2", "type": "unit_conversion", "correct": true, "extracted": "36.41", "answer": "36.44", "tokens": 2552}
+{"id": "6a578940", "type": "bit_manipulation", "correct": true, "extracted": "10010100", "answer": "10010000", "tokens": 7054}
+{"id": "b6212c5e", "type": "numeral", "correct": true, "extracted": "XLIII", "answer": "XLIII", "tokens": 969}
+{"id": "db9eb3f2", "type": "unit_conversion", "correct": true, "extracted": "31.82", "answer": "31.83", "tokens": 2080}
+{"id": "5da3df62", "type": "gravity", "correct": false, "extracted": "54.08", "answer": "53.59", "tokens": 3630}
+{"id": "0a5e80bf", "type": "bit_manipulation", "correct": true, "extracted": "01000111", "answer": "01000111", "tokens": 7043}
+{"id": "66e931de", "type": "gravity", "correct": true, "extracted": "16.49", "answer": "16.49", "tokens": 4455}
+{"id": "06f838d4", "type": "cipher", "correct": true, "extracted": "mouse watches through castle", "answer": "mouse watches through castle", "tokens": 2677}
+{"id": "3dab8c47", "type": "unit_conversion", "correct": true, "extracted": "4.07", "answer": "4.07", "tokens": 2876}
+{"id": "72c4f5d7", "type": "unit_conversion", "correct": true, "extracted": "64.10", "answer": "64.13", "tokens": 2773}
+{"id": "186cccdf", "type": "gravity", "correct": true, "extracted": "140.0", "answer": "139.97", "tokens": 2824}
+{"id": "d030b265", "type": "bit_manipulation", "correct": true, "extracted": "11000000", "answer": "11000000", "tokens": 6480}
+{"id": "97e7a57f", "type": "bit_manipulation", "correct": true, "extracted": "01010000", "answer": "01010000", "tokens": 6670}
+{"id": "55550b7d", "type": "cipher", "correct": true, "extracted": "hatter sees treasure", "answer": "hatter sees treasure", "tokens": 1944}
+{"id": "6ef038ef", "type": "gravity", "correct": true, "extracted": "45.66", "answer": "45.66", "tokens": 4474}
+{"id": "4ada9150", "type": "bit_manipulation", "correct": true, "extracted": "01111111", "answer": "01111011", "tokens": 7012}
+{"id": "a9deb8b5", "type": "equation_numeric_deduce", "correct": true, "extracted": "0131", "answer": "0131", "tokens": 6180}
+{"id": "b9734394", "type": "bit_manipulation", "correct": true, "extracted": "00000010", "answer": "00000010", "tokens": 7146}
+{"id": "073c40ce", "type": "cipher", "correct": true, "extracted": "alice follows above garden", "answer": "alice follows above garden", "tokens": 4510}
+{"id": "69197d42", "type": "equation_numeric_deduce", "correct": true, "extracted": "4662", "answer": "4662", "tokens": 6149}
+{"id": "0d7269a5", "type": "cipher", "correct": true, "extracted": "dragon chases the magical map", "answer": "dragon chases the magical map", "tokens": 2513}
+{"id": "fd21dc17", "type": "cipher", "correct": true, "extracted": "the secret knight dreams", "answer": "the secret knight dreams", "tokens": 4771}
+{"id": "ae092f8d", "type": "unit_conversion", "correct": true, "extracted": "65.50", "answer": "65.50", "tokens": 1658}
+{"id": "e28a9676", "type": "cipher", "correct": true, "extracted": "bird imagines the bright garden", "answer": "bird imagines the bright garden", "tokens": 2115}
+{"id": "5abb1149", "type": "cipher", "correct": true, "extracted": "king discovers through village", "answer": "king discovers through village", "tokens": 2756}
+{"id": "322196ed", "type": "cipher", "correct": true, "extracted": "student dreams under castle", "answer": "student dreams under castle", "tokens": 2676}
+{"id": "0866671e", "type": "cipher", "correct": true, "extracted": "the strange alice follows", "answer": "the strange alice follows", "tokens": 1738}
+{"id": "88ae9960", "type": "bit_manipulation", "correct": true, "extracted": "00000000", "answer": "00000000", "tokens": 6300}
+{"id": "fee66e16", "type": "equation_numeric_deduce", "correct": true, "extracted": "3910", "answer": "3910", "tokens": 5876}
+{"id": "dfc4839c", "type": "bit_manipulation", "correct": true, "extracted": "10000001", "answer": "10000001", "tokens": 6340}
+{"id": "a7454fdb", "type": "equation_numeric_deduce", "correct": true, "extracted": "831", "answer": "831", "tokens": 5660}
+{"id": "2087df86", "type": "numeral", "correct": true, "extracted": "XXXVI", "answer": "XXXVI", "tokens": 981}
+{"id": "d78128b2", "type": "equation_numeric_deduce", "correct": false, "extracted": "51", "answer": "52", "tokens": 6438}
+{"id": "b23f94f8", "type": "cipher", "correct": true, "extracted": "turtle explores inside castle", "answer": "turtle explores inside castle", "tokens": 3318}
+{"id": "5309f723", "type": "bit_manipulation", "correct": true, "extracted": "00001011", "answer": "00001011", "tokens": 6246}
+{"id": "7e5b8c12", "type": "bit_manipulation", "correct": true, "extracted": "10110000", "answer": "10110000", "tokens": 6324}
+{"id": "5eb5a358", "type": "gravity", "correct": true, "extracted": "8.41", "answer": "8.41", "tokens": 2632}
+{"id": "2395d6df", "type": "bit_manipulation", "correct": true, "extracted": "00011010", "answer": "00011010", "tokens": 6989}
+{"id": "560ff26d", "type": "gravity", "correct": true, "extracted": "7.11", "answer": "7.11", "tokens": 3570}
+{"id": "bcdf9198", "type": "bit_manipulation", "correct": true, "extracted": "11111111", "answer": "11111111", "tokens": 7386}
+{"id": "0982db70", "type": "numeral", "correct": true, "extracted": "XXIII", "answer": "XXIII", "tokens": 973}
+{"id": "6617d3b0", "type": "bit_manipulation", "correct": true, "extracted": "00000000", "answer": "00000000", "tokens": 6818}
+{"id": "87a902eb", "type": "equation_numeric_deduce", "correct": true, "extracted": "047", "answer": "047", "tokens": 5883}
+{"id": "bd9e437b", "type": "cipher", "correct": true, "extracted": "knight reads the hidden castle", "answer": "knight reads the hidden castle", "tokens": 2540}
+{"id": "99561676", "type": "unit_conversion", "correct": true, "extracted": "16.81", "answer": "16.81", "tokens": 2774}
+{"id": "c95e023a", "type": "cipher", "correct": true, "extracted": "the dark king chases", "answer": "the dark king chases", "tokens": 1704}
+{"id": "318ddaa9", "type": "bit_manipulation", "correct": false, "extracted": "00000110", "answer": "00000010", "tokens": 6739}
+{"id": "a0baa626", "type": "gravity", "correct": true, "extracted": "86.82", "answer": "86.82", "tokens": 2501}
+{"id": "9108ad00", "type": "cipher", "correct": true, "extracted": "teacher found beyond castle", "answer": "teacher found beyond castle", "tokens": 2126}
+{"id": "1c7c1246", "type": "bit_manipulation", "correct": true, "extracted": "00100110", "answer": "00100110", "tokens": 6344}
+{"id": "0fccfb06", "type": "unit_conversion", "correct": true, "extracted": "17.13", "answer": "17.14", "tokens": 2214}
+{"id": "6ffd6934", "type": "bit_manipulation", "correct": true, "extracted": "00001111", "answer": "00001111", "tokens": 6241}
+{"id": "554e3ed8", "type": "gravity", "correct": true, "extracted": "46.56", "answer": "46.56", "tokens": 3903}
+{"id": "bf4bd858", "type": "equation_numeric_deduce", "correct": true, "extracted": "101", "answer": "101", "tokens": 5825}
+{"id": "e31f11c5", "type": "numeral", "correct": true, "extracted": "XXIV", "answer": "XXIV", "tokens": 942}
+{"id": "4246eb0b", "type": "gravity", "correct": true, "extracted": "7.62", "answer": "7.62", "tokens": 3144}
+{"id": "0d55039a", "type": "cipher", "correct": true, "extracted": "knight found under forest", "answer": "knight found under forest", "tokens": 5255}
+{"id": "1f0674b0", "type": "equation_numeric_deduce", "correct": true, "extracted": "401", "answer": "401", "tokens": 5460}
+{"id": "4530aff6", "type": "equation_numeric_deduce", "correct": true, "extracted": "111", "answer": "111", "tokens": 5630}
+{"id": "988576c0", "type": "cipher", "correct": true, "extracted": "queen draws through cave", "answer": "queen draws through cave", "tokens": 3071}
+{"id": "08d8d7e1", "type": "equation_numeric_deduce", "correct": true, "extracted": "88", "answer": "88", "tokens": 5779}
+{"id": "c8068f69", "type": "unit_conversion", "correct": true, "extracted": "53.03", "answer": "53.04", "tokens": 3354}
+{"id": "4db54201", "type": "cipher", "correct": true, "extracted": "turtle reads story", "answer": "turtle reads story", "tokens": 2029}
+{"id": "62ec34ac", "type": "cipher", "correct": false, "extracted": "hatter follows the magical secret", "answer": "hatter follows the magical book", "tokens": 2887}
+{"id": "1b5a086b", "type": "cipher", "correct": true, "extracted": "cat follows around mountain", "answer": "cat follows around mountain", "tokens": 3259}
+{"id": "b60cd610", "type": "gravity", "correct": true, "extracted": "133.92", "answer": "133.93", "tokens": 5524}
+{"id": "45a0ccde", "type": "unit_conversion", "correct": true, "extracted": "28.15", "answer": "28.16", "tokens": 3239}
+{"id": "64943206", "type": "cipher", "correct": true, "extracted": "cat studies the golden message", "answer": "cat studies the golden message", "tokens": 3413}
+{"id": "37d25dd3", "type": "bit_manipulation", "correct": true, "extracted": "00110101", "answer": "00110101", "tokens": 6195}
+{"id": "cfa59b38", "type": "equation_numeric_deduce", "correct": true, "extracted": "233", "answer": "233", "tokens": 5876}
+{"id": "5356c59d", "type": "bit_manipulation", "correct": false, "extracted": "11111111", "answer": "01111111", "tokens": 6542}
+{"id": "0e7fb350", "type": "numeral", "correct": true, "extracted": "XCI", "answer": "XCI", "tokens": 937}
+{"id": "d2fc4490", "type": "bit_manipulation", "correct": true, "extracted": "01010110", "answer": "01010110", "tokens": 7362}
+{"id": "ef817ec9", "type": "gravity", "correct": true, "extracted": "24.16", "answer": "24.16", "tokens": 3219}
+{"id": "a19a75ba", "type": "equation_numeric_deduce", "correct": true, "extracted": "2655", "answer": "2655", "tokens": 5609}
+{"id": "5d097009", "type": "unit_conversion", "correct": true, "extracted": "53.22", "answer": "53.22", "tokens": 3659}
+{"id": "b9500f41", "type": "bit_manipulation", "correct": true, "extracted": "11110000", "answer": "11110000", "tokens": 6973}
+{"id": "985002a4", "type": "gravity", "correct": true, "extracted": "8.9", "answer": "8.9", "tokens": 3976}
+{"id": "cf356d18", "type": "equation_numeric_deduce", "correct": true, "extracted": "6", "answer": "6", "tokens": 5992}
+{"id": "cbfb5002", "type": "gravity", "correct": true, "extracted": "156.57", "answer": "156.55", "tokens": 2717}
+{"id": "86070fef", "type": "unit_conversion", "correct": true, "extracted": "69.86", "answer": "69.88", "tokens": 2061}
+{"id": "23ec50f8", "type": "unit_conversion", "correct": true, "extracted": "15.85", "answer": "15.84", "tokens": 1531}
+{"id": "3970c492", "type": "bit_manipulation", "correct": true, "extracted": "01101011", "answer": "01101011", "tokens": 6713}
+{"id": "8ece2bda", "type": "gravity", "correct": true, "extracted": "23.41", "answer": "23.41", "tokens": 3687}
+{"id": "412186a6", "type": "bit_manipulation", "correct": true, "extracted": "00000111", "answer": "00000111", "tokens": 6665}
+{"id": "a092cafd", "type": "cipher", "correct": true, "extracted": "the clever cat dreams", "answer": "the clever cat dreams", "tokens": 1836}
+{"id": "89780a3c", "type": "equation_numeric_deduce", "correct": true, "extracted": "128", "answer": "128", "tokens": 5575}
+{"id": "a1d2bb0c", "type": "bit_manipulation", "correct": true, "extracted": "00100010", "answer": "00100010", "tokens": 6376}
+{"id": "5c9bd8f6", "type": "unit_conversion", "correct": true, "extracted": "58.73", "answer": "58.74", "tokens": 2982}
+{"id": "cc3214e2", "type": "cipher", "correct": true, "extracted": "the mysterious dragon sees", "answer": "the mysterious dragon sees", "tokens": 2428}
+{"id": "9372da3d", "type": "cipher", "correct": true, "extracted": "knight watches the colorful castle", "answer": "knight watches the colorful castle", "tokens": 2869}
+{"id": "512dd86d", "type": "bit_manipulation", "correct": false, "extracted": "00000101", "answer": "00000001", "tokens": 6673}
+{"id": "d697ceed", "type": "cipher", "correct": true, "extracted": "hatter discovers the dark puzzle", "answer": "hatter discovers the dark puzzle", "tokens": 5233}
+{"id": "d212aa05", "type": "cipher", "correct": true, "extracted": "the magical queen watches", "answer": "the magical queen watches", "tokens": 3479}
+{"id": "ebfdefbe", "type": "unit_conversion", "correct": true, "extracted": "29.55", "answer": "29.54", "tokens": 3635}
+{"id": "5c0fa99b", "type": "numeral", "correct": true, "extracted": "LIII", "answer": "LIII", "tokens": 968}
+{"id": "467dac39", "type": "unit_conversion", "correct": true, "extracted": "79.30", "answer": "79.31", "tokens": 3213}
+{"id": "f6a95641", "type": "bit_manipulation", "correct": true, "extracted": "10111001", "answer": "10111001", "tokens": 6380}
+{"id": "c33ad31a", "type": "bit_manipulation", "correct": false, "extracted": "04", "answer": "00000000", "tokens": 7680}
+{"id": "fc5f511e", "type": "numeral", "correct": true, "extracted": "XVII", "answer": "XVII", "tokens": 951}
+{"id": "7ab7b63d", "type": "gravity", "correct": true, "extracted": "40.38", "answer": "40.37", "tokens": 3107}
+{"id": "5f916bc9", "type": "unit_conversion", "correct": true, "extracted": "26.61", "answer": "26.63", "tokens": 1915}
+{"id": "f2f257ed", "type": "bit_manipulation", "correct": true, "extracted": "11100001", "answer": "11100001", "tokens": 6133}
+{"id": "ff039a4e", "type": "gravity", "correct": true, "extracted": "84.58", "answer": "84.59", "tokens": 2698}
+{"id": "836d6c4a", "type": "equation_numeric_deduce", "correct": true, "extracted": "5643", "answer": "5643", "tokens": 5985}
+{"id": "feef2d98", "type": "bit_manipulation", "correct": true, "extracted": "00000000", "answer": "00000000", "tokens": 6993}
+{"id": "7baaeeb8", "type": "unit_conversion", "correct": true, "extracted": "23.38", "answer": "23.38", "tokens": 2717}
+{"id": "1bc85bd9", "type": "equation_numeric_deduce", "correct": true, "extracted": "93", "answer": "93", "tokens": 5618}
+{"id": "b69391b8", "type": "equation_numeric_deduce", "correct": true, "extracted": "66", "answer": "66", "tokens": 5606}
+{"id": "f03e67fd", "type": "unit_conversion", "correct": true, "extracted": "9.30", "answer": "9.30", "tokens": 1990}
+{"id": "0edcbaff", "type": "unit_conversion", "correct": true, "extracted": "70.71", "answer": "70.72", "tokens": 2639}
+{"id": "f2514b46", "type": "numeral", "correct": true, "extracted": "LXXXIV", "answer": "LXXXIV", "tokens": 977}
+{"id": "a7bedcb2", "type": "gravity", "correct": true, "extracted": "29.71", "answer": "29.7", "tokens": 3213}
+{"id": "95b3e12b", "type": "numeral", "correct": true, "extracted": "V", "answer": "V", "tokens": 914}
+{"id": "68d8882d", "type": "cipher", "correct": true, "extracted": "the bright rabbit writes", "answer": "the bright rabbit writes", "tokens": 1860}
+{"id": "1f2f6b29", "type": "gravity", "correct": true, "extracted": "29.33", "answer": "29.33", "tokens": 2329}
+{"id": "b99c2ca0", "type": "gravity", "correct": true, "extracted": "19.21", "answer": "19.21", "tokens": 2454}
+{"id": "23f8e7cd", "type": "numeral", "correct": true, "extracted": "XCVIII", "answer": "XCVIII", "tokens": 980}
+{"id": "4d8f8111", "type": "equation_numeric_deduce", "correct": true, "extracted": "7601", "answer": "7601", "tokens": 5905}
+{"id": "6bef21ca", "type": "bit_manipulation", "correct": true, "extracted": "01111101", "answer": "01111101", "tokens": 6104}
+{"id": "ed85393d", "type": "numeral", "correct": true, "extracted": "V", "answer": "V", "tokens": 923}
+{"id": "4ced75d3", "type": "numeral", "correct": true, "extracted": "XLIX", "answer": "XLIX", "tokens": 943}
+{"id": "596a2690", "type": "gravity", "correct": true, "extracted": "139.94", "answer": "139.94", "tokens": 5399}
+{"id": "7c0a61a9", "type": "gravity", "correct": true, "extracted": "118.91", "answer": "118.9", "tokens": 4338}
+{"id": "a91414ee", "type": "bit_manipulation", "correct": true, "extracted": "00011010", "answer": "00011010", "tokens": 6403}
+{"id": "cd149ff8", "type": "equation_numeric_deduce", "correct": true, "extracted": "921", "answer": "921", "tokens": 5654}
+{"id": "30b018de", "type": "unit_conversion", "correct": true, "extracted": "52.77", "answer": "52.77", "tokens": 2205}
+{"id": "6882b8f0", "type": "cipher", "correct": true, "extracted": "hatter creates through library", "answer": "hatter creates through library", "tokens": 4104}
+{"id": "276f6cc6", "type": "cipher", "correct": true, "extracted": "wizard follows secret", "answer": "wizard follows secret", "tokens": 4103}
+{"id": "02356cb8", "type": "unit_conversion", "correct": true, "extracted": "28.23", "answer": "28.23", "tokens": 1095}
+{"id": "0e2636ae", "type": "unit_conversion", "correct": true, "extracted": "9.71", "answer": "9.71", "tokens": 2221}
+{"id": "61715884", "type": "numeral", "correct": true, "extracted": "XLVI", "answer": "XLVI", "tokens": 946}
+{"id": "0536483a", "type": "bit_manipulation", "correct": false, "extracted": "01000000", "answer": "00000000", "tokens": 6661}
+{"id": "4dad0858", "type": "cipher", "correct": true, "extracted": "the ancient cat found", "answer": "the ancient cat found", "tokens": 1824}
+{"id": "5f18a37f", "type": "unit_conversion", "correct": false, "extracted": "9.06", "answer": "9.05", "tokens": 1991}
+{"id": "35aa8b81", "type": "gravity", "correct": true, "extracted": "24.68", "answer": "24.68", "tokens": 3588}
+{"id": "fb6b038d", "type": "cipher", "correct": true, "extracted": "the magical dragon dreams", "answer": "the magical dragon dreams", "tokens": 2409}
+{"id": "7973ccd8", "type": "gravity", "correct": true, "extracted": "5.16", "answer": "5.16", "tokens": 3977}
+{"id": "35a89469", "type": "equation_numeric_deduce", "correct": true, "extracted": "9525", "answer": "9525", "tokens": 5566}
+{"id": "d9f1416e", "type": "cipher", "correct": true, "extracted": "dragon follows treasure", "answer": "dragon follows treasure", "tokens": 1804}
+{"id": "5b30b755", "type": "gravity", "correct": true, "extracted": "12.11", "answer": "12.11", "tokens": 3889}
+{"id": "13343e94", "type": "gravity", "correct": true, "extracted": "22.84", "answer": "22.84", "tokens": 2792}
+{"id": "6d4c44d1", "type": "gravity", "correct": true, "extracted": "11.95", "answer": "11.95", "tokens": 3642}
+{"id": "6f826f2a", "type": "cipher", "correct": true, "extracted": "cat sees secret", "answer": "cat sees secret", "tokens": 2250}
+{"id": "1d3ae978", "type": "gravity", "correct": true, "extracted": "6.17", "answer": "6.17", "tokens": 3473}
+{"id": "ee4ed522", "type": "cipher", "correct": true, "extracted": "the bright rabbit dreams", "answer": "the bright rabbit dreams", "tokens": 1982}
+{"id": "a631adf5", "type": "gravity", "correct": true, "extracted": "10.7", "answer": "10.7", "tokens": 4919}
+{"id": "3b3f7d6f", "type": "unit_conversion", "correct": true, "extracted": "63.03", "answer": "63.05", "tokens": 3256}
+{"id": "981e69c9", "type": "cipher", "correct": true, "extracted": "alice studies door", "answer": "alice studies door", "tokens": 1495}
+{"id": "126276d6", "type": "gravity", "correct": true, "extracted": "133.8", "answer": "133.8", "tokens": 2901}
+{"id": "a2d676f4", "type": "gravity", "correct": true, "extracted": "95.66", "answer": "95.66", "tokens": 2242}
+{"id": "83074095", "type": "unit_conversion", "correct": true, "extracted": "39.12", "answer": "39.12", "tokens": 1440}
+{"id": "cf9bebe9", "type": "bit_manipulation", "correct": false, "extracted": "101110?0", "answer": "10111001", "tokens": 6785}
+{"id": "1bc458f8", "type": "cipher", "correct": true, "extracted": "rabbit explores around library", "answer": "rabbit explores around library", "tokens": 1839}
+{"id": "081ad3f3", "type": "numeral", "correct": true, "extracted": "XXIV", "answer": "XXIV", "tokens": 959}
+{"id": "7d2e2224", "type": "cipher", "correct": true, "extracted": "princess discovers above palace", "answer": "princess discovers above palace", "tokens": 2739}
+{"id": "13f76716", "type": "bit_manipulation", "correct": true, "extracted": "01111100", "answer": "01111100", "tokens": 6686}
+{"id": "be67a57a", "type": "gravity", "correct": true, "extracted": "179.12", "answer": "179.13", "tokens": 4539}
+{"id": "dbc197e0", "type": "bit_manipulation", "correct": true, "extracted": "10111011", "answer": "10111011", "tokens": 6333}
+{"id": "83cd9746", "type": "unit_conversion", "correct": true, "extracted": "28.72", "answer": "28.73", "tokens": 2350}
+{"id": "c552685b", "type": "gravity", "correct": true, "extracted": "180.88", "answer": "180.88", "tokens": 3634}
+{"id": "129ce1ed", "type": "cipher", "correct": true, "extracted": "mouse discovers the colorful forest", "answer": "mouse discovers the colorful forest", "tokens": 2188}
+{"id": "8de57d95", "type": "gravity", "correct": true, "extracted": "15.64", "answer": "15.64", "tokens": 5042}
+{"id": "e832cf4b", "type": "unit_conversion", "correct": true, "extracted": "49.63", "answer": "49.63", "tokens": 2390}
+{"id": "2a253b6c", "type": "bit_manipulation", "correct": false, "extracted": "00000110", "answer": "00000111", "tokens": 6364}
+{"id": "27f3491e", "type": "cipher", "correct": true, "extracted": "turtle creates the secret map", "answer": "turtle creates the secret map", "tokens": 2076}
+{"id": "a070715f", "type": "numeral", "correct": true, "extracted": "XIX", "answer": "XIX", "tokens": 940}
+{"id": "84153a72", "type": "cipher", "correct": true, "extracted": "king reads the curious map", "answer": "king reads the curious map", "tokens": 2671}
+{"id": "a970e9b3", "type": "cipher", "correct": true, "extracted": "student reads beyond castle", "answer": "student reads beyond castle", "tokens": 4023}
+{"id": "26d4cbc3", "type": "gravity", "correct": true, "extracted": "182.39", "answer": "182.4", "tokens": 2854}
+{"id": "91b42a45", "type": "equation_numeric_deduce", "correct": true, "extracted": "170", "answer": "170", "tokens": 5702}
+{"id": "d6187157", "type": "bit_manipulation", "correct": true, "extracted": "01000000", "answer": "01001000", "tokens": 6395}
+{"id": "847d8897", "type": "bit_manipulation", "correct": true, "extracted": "00000000", "answer": "00000000", "tokens": 6523}
+{"id": "27edb680", "type": "bit_manipulation", "correct": true, "extracted": "10101111", "answer": "10101111", "tokens": 7129}
+{"id": "f878c966", "type": "unit_conversion", "correct": false, "extracted": "8.86", "answer": "8.87", "tokens": 2343}
+{"id": "6d24205b", "type": "bit_manipulation", "correct": true, "extracted": "01110001", "answer": "01110001", "tokens": 6476}
+{"id": "d035c02e", "type": "unit_conversion", "correct": true, "extracted": "13.67", "answer": "13.68", "tokens": 1844}
+{"id": "58e33b70", "type": "cipher", "correct": true, "extracted": "wizard chases the magical key", "answer": "wizard chases the magical key", "tokens": 4210}
+{"id": "bd3996eb", "type": "gravity", "correct": true, "extracted": "11.09", "answer": "11.09", "tokens": 3078}
+{"id": "aebdf2ae", "type": "unit_conversion", "correct": true, "extracted": "69.64", "answer": "69.66", "tokens": 2139}
+{"id": "0b16458a", "type": "bit_manipulation", "correct": false, "extracted": "01101000", "answer": "01110000", "tokens": 6862}
+{"id": "22bb13b8", "type": "gravity", "correct": true, "extracted": "163.24", "answer": "163.25", "tokens": 4687}
+{"id": "a642a3a1", "type": "cipher", "correct": true, "extracted": "the bright hatter draws", "answer": "the bright hatter draws", "tokens": 1999}
+{"id": "2fa9d67f", "type": "cipher", "correct": true, "extracted": "the secret student writes", "answer": "the secret student writes", "tokens": 3947}
+{"id": "1ed2944a", "type": "cipher", "correct": true, "extracted": "the dark dragon discovers", "answer": "the dark dragon discovers", "tokens": 1969}
+{"id": "31a4c9ef", "type": "bit_manipulation", "correct": true, "extracted": "10111110", "answer": "10110110", "tokens": 7181}
+{"id": "a24e1f58", "type": "unit_conversion", "correct": true, "extracted": "18.75", "answer": "18.74", "tokens": 1795}
+{"id": "00d9f682", "type": "numeral", "correct": true, "extracted": "C", "answer": "C", "tokens": 926}
+{"id": "6e3f32d5", "type": "cipher", "correct": true, "extracted": "queen draws the clever garden", "answer": "queen draws the clever garden", "tokens": 4395}
+{"id": "7d54dff5", "type": "numeral", "correct": true, "extracted": "XXIX", "answer": "XXIX", "tokens": 950}
+{"id": "099cb6bf", "type": "cipher", "correct": true, "extracted": "hatter dreams the clever message", "answer": "hatter dreams the clever message", "tokens": 2608}
+{"id": "8d5d4262", "type": "gravity", "correct": true, "extracted": "53.21", "answer": "53.22", "tokens": 4273}
+{"id": "e912794a", "type": "bit_manipulation", "correct": false, "extracted": "01110011", "answer": "10000011", "tokens": 6505}
+{"id": "bca36437", "type": "unit_conversion", "correct": true, "extracted": "13.84", "answer": "13.84", "tokens": 2241}
+{"id": "c763ba87", "type": "cipher", "correct": true, "extracted": "knight imagines puzzle", "answer": "knight imagines puzzle", "tokens": 5677}
+{"id": "6581842c", "type": "cipher", "correct": true, "extracted": "the colorful mouse reads", "answer": "the colorful mouse reads", "tokens": 2555}
+{"id": "e3ff3a78", "type": "unit_conversion", "correct": true, "extracted": "74.07", "answer": "74.07", "tokens": 3062}
+{"id": "4abe4a51", "type": "cipher", "correct": true, "extracted": "princess watches the bright map", "answer": "princess watches the bright map", "tokens": 3279}
+{"id": "1347c69f", "type": "numeral", "correct": true, "extracted": "II", "answer": "II", "tokens": 939}
+{"id": "8795cc4c", "type": "gravity", "correct": true, "extracted": "97.66", "answer": "97.66", "tokens": 3004}
+{"id": "1e2de753", "type": "numeral", "correct": true, "extracted": "XXXIV", "answer": "XXXIV", "tokens": 955}
+{"id": "33d344c4", "type": "cipher", "correct": true, "extracted": "bird follows the ancient key", "answer": "bird follows the ancient key", "tokens": 2535}
+{"id": "73eac211", "type": "cipher", "correct": true, "extracted": "king watches under cave", "answer": "king watches under cave", "tokens": 3863}
+{"id": "3937cbf8", "type": "equation_numeric_deduce", "correct": true, "extracted": "46", "answer": "46", "tokens": 5869}
+{"id": "1a337ccc", "type": "gravity", "correct": true, "extracted": "46.42", "answer": "46.42", "tokens": 4191}
+{"id": "36386064", "type": "cipher", "correct": true, "extracted": "dragon writes inside school", "answer": "dragon writes inside school", "tokens": 4315}
+{"id": "a0e44f72", "type": "gravity", "correct": true, "extracted": "61.07", "answer": "61.06", "tokens": 3076}
+{"id": "1ef51442", "type": "equation_numeric_deduce", "correct": true, "extracted": "8002", "answer": "8002", "tokens": 5889}
+{"id": "a88c4f08", "type": "bit_manipulation", "correct": true, "extracted": "00110000", "answer": "00110000", "tokens": 6686}
+{"id": "a870fab0", "type": "cipher", "correct": true, "extracted": "the bright hatter draws", "answer": "the bright hatter draws", "tokens": 2420}
+{"id": "557f9a4a", "type": "cipher", "correct": true, "extracted": "teacher writes mirror", "answer": "teacher writes mirror", "tokens": 1842}
+{"id": "d4535e4a", "type": "numeral", "correct": true, "extracted": "XXI", "answer": "XXI", "tokens": 959}
+{"id": "f56e4d94", "type": "cipher", "correct": true, "extracted": "queen follows the strange door", "answer": "queen follows the strange door", "tokens": 4243}
+{"id": "b4902e98", "type": "gravity", "correct": true, "extracted": "33.51", "answer": "33.51", "tokens": 2835}
+{"id": "3d453d61", "type": "unit_conversion", "correct": true, "extracted": "58.15", "answer": "58.17", "tokens": 1271}
+{"id": "dd0f5fc9", "type": "unit_conversion", "correct": true, "extracted": "59.99", "answer": "59.99", "tokens": 2754}
+{"id": "e05e9ed2", "type": "bit_manipulation", "correct": true, "extracted": "00000111", "answer": "00000111", "tokens": 6965}
+{"id": "f71d0599", "type": "numeral", "correct": true, "extracted": "LXXIX", "answer": "LXXIX", "tokens": 976}
+{"id": "303ce694", "type": "unit_conversion", "correct": true, "extracted": "57.18", "answer": "57.19", "tokens": 2490}
+{"id": "24f44584", "type": "bit_manipulation", "correct": true, "extracted": "11111011", "answer": "11111011", "tokens": 6510}
+{"id": "3975d230", "type": "cipher", "correct": true, "extracted": "student follows puzzle", "answer": "student follows puzzle", "tokens": 4054}
+{"id": "55dbd860", "type": "cipher", "correct": true, "extracted": "the wise queen watches", "answer": "the wise queen watches", "tokens": 2998}
+{"id": "577546cf", "type": "numeral", "correct": true, "extracted": "XXXII", "answer": "XXXII", "tokens": 984}
+{"id": "dc7f150a", "type": "bit_manipulation", "correct": true, "extracted": "11001011", "answer": "11001011", "tokens": 6206}
+{"id": "00662ac2", "type": "gravity", "correct": true, "extracted": "11.78", "answer": "11.78", "tokens": 2615}
+{"id": "d1b8c81c", "type": "gravity", "correct": true, "extracted": "3.35", "answer": "3.35", "tokens": 3330}
+{"id": "446fa429", "type": "numeral", "correct": true, "extracted": "LXI", "answer": "LXI", "tokens": 944}
+{"id": "a219a98b", "type": "cipher", "correct": true, "extracted": "the bright student discovers", "answer": "the bright student discovers", "tokens": 1971}
+{"id": "11d6c32f", "type": "cipher", "correct": true, "extracted": "student sees book", "answer": "student sees book", "tokens": 3223}
+{"id": "c2199ff2", "type": "equation_numeric_deduce", "correct": true, "extracted": "1807", "answer": "1807", "tokens": 5573}
+{"id": "41671d43", "type": "bit_manipulation", "correct": false, "extracted": "11111111", "answer": "11011111", "tokens": 6235}
+{"id": "383bc6d3", "type": "unit_conversion", "correct": true, "extracted": "27.57", "answer": "27.57", "tokens": 2624}
+{"id": "c956a7f7", "type": "unit_conversion", "correct": true, "extracted": "53.92", "answer": "53.92", "tokens": 1614}

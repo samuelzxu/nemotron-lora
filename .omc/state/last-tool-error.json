@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"cd /home/ec2-user/dev/nemotron_training\\nfoundation/.venv/bin/python -m py_compile submit/submit_watcher.py && echo \\\"WATCHER_COMPILE_OK\\\"\\necho \\\"=== ep1 background (interim) ===\\\"; tail ...",
+  "error": "Exit code 1\nWATCHER_COMPILE_OK\n=== ep1 background (interim) ===\n=== training: epoch3 progress + ep3 saved? ===\n   22:45:21\n598/615 [\n  adapter_ep1 ✓\n  adapter_ep2 ✓",
+  "timestamp": "2026-06-08T13:40:38.516Z",
+  "retry_count": 1
+}

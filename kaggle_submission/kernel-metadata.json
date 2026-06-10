@@ -1,0 +1,18 @@
+{
+  "id": "samuelzxu/nemotron-submission",
+  "title": "Nemotron Submission",
+  "code_file": "nemotron-submission.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "competition_sources": [
+    "nvidia-nemotron-model-reasoning-challenge"
+  ],
+  "model_sources": [
+    "samuelzxu/nemotron-nano-30b-trained/Transformers/eqguess-3x-a64lr1e4-3ep-ep3/1"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": []
+}

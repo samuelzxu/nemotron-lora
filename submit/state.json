@@ -1,0 +1,108 @@
+{
+  "grid-a32-lr1e-4-ep1": {
+    "run": "grid_a32_lr1e-4",
+    "ep": 1,
+    "status": "submitted",
+    "submitted_at": "2026-06-02T08:18:39Z"
+  },
+  "grid-a32-lr1e-4-ep2": {
+    "run": "grid_a32_lr1e-4",
+    "ep": 2,
+    "status": "submitted",
+    "submitted_at": "2026-06-02T08:10:00Z",
+    "note": "manual"
+  },
+  "grid-a32-lr2e-4-ep1": {
+    "run": "grid_a32_lr2e-4",
+    "ep": 1,
+    "status": "submitted",
+    "submitted_at": "2026-06-02T08:27:46Z"
+  },
+  "grid-a32-lr2e-4-ep2": {
+    "run": "grid_a32_lr2e-4",
+    "ep": 2,
+    "status": "submitted",
+    "submitted_at": "2026-06-02T15:42:59Z"
+  },
+  "grid-a64-lr1e-4-ep1": {
+    "run": "grid_a64_lr1e-4",
+    "ep": 1,
+    "status": "submitted",
+    "submitted_at": "2026-06-02T23:23:46Z"
+  },
+  "grid-a64-lr1e-4-ep2": {
+    "run": "grid_a64_lr1e-4",
+    "ep": 2,
+    "status": "submitted",
+    "submitted_at": "2026-06-03T06:49:24Z"
+  },
+  "grid-a64-lr2e-4-ep1": {
+    "run": "grid_a64_lr2e-4",
+    "ep": 1,
+    "status": "submitted",
+    "submitted_at": "2026-06-03T14:32:54Z"
+  },
+  "grid-a64-lr2e-4-ep2": {
+    "run": "grid_a64_lr2e-4",
+    "ep": 2,
+    "status": "submitted",
+    "submitted_at": "2026-06-03T21:57:43Z"
+  },
+  "eqguess-a64lr1e4-3ep-ep1": {
+    "run": "eqguess_a64lr1e4_3ep",
+    "ep": 1,
+    "status": "submitted",
+    "submitted_at": "2026-06-08T13:47Z",
+    "note": "manual code-submit v123"
+  },
+  "eqguess-a64lr1e4-3ep-ep2": {
+    "run": "eqguess_a64lr1e4_3ep",
+    "ep": 2,
+    "status": "submitted",
+    "submitted_at": "2026-06-08T13:37Z",
+    "note": "manual code-submit v122"
+  },
+  "eqguess-a64lr1e4-3ep-ep3": {
+    "run": "eqguess_a64lr1e4_3ep",
+    "ep": 3,
+    "status": "submitted",
+    "submitted_at": "2026-06-08T15:20Z",
+    "note": "manual code-submit v125"
+  },
+  "eqguess-rep4-a64lr1e4-3ep-ep1": {
+    "run": "eqguess_rep4_a64lr1e4_3ep",
+    "ep": 1,
+    "status": "submitted",
+    "submitted_at": "2026-06-09T00:42:22Z"
+  },
+  "eqguess-rep4-a64lr1e4-3ep-ep2": {
+    "run": "eqguess_rep4_a64lr1e4_3ep",
+    "ep": 2,
+    "status": "submitted",
+    "submitted_at": "2026-06-09T08:31:03Z"
+  },
+  "eqguess-rep4-a64lr1e4-3ep-ep3": {
+    "run": "eqguess_rep4_a64lr1e4_3ep",
+    "ep": 3,
+    "status": "submitted",
+    "submitted_at": "2026-06-09T16:28:49Z"
+  },
+  "eqguess-3x-a64lr1e4-3ep-ep1": {
+    "run": "eqguess_3x_a64lr1e4_3ep",
+    "ep": 1,
+    "status": "submitted",
+    "submitted_at": "2026-06-10T02:15:11Z"
+  },
+  "eqguess-3x-a64lr1e4-3ep-ep2": {
+    "run": "eqguess_3x_a64lr1e4_3ep",
+    "ep": 2,
+    "status": "submitted",
+    "submitted_at": "2026-06-10T10:13:48Z"
+  },
+  "eqguess-3x-a64lr1e4-3ep-ep3": {
+    "run": "eqguess_3x_a64lr1e4_3ep",
+    "ep": 3,
+    "status": "submitted",
+    "submitted_at": "2026-06-10T21:29:18Z"
+  }
+}

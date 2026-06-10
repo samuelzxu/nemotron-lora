@@ -1,0 +1,1300 @@
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T09:13:43Z] submit_watcher start; expecting 8 adapters
+[2026-06-01T16:53:43Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T16:55:21Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T17:06:09Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T17:06:09Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T17:11:09Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T17:11:46Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T17:17:49Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T17:17:50Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T17:22:50Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T17:23:26Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T17:31:50Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T17:31:51Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T17:36:51Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T17:37:16Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T17:43:59Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T17:43:59Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T17:48:59Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T17:49:23Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T17:55:45Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T17:55:45Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T18:00:45Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T18:01:22Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T18:07:24Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T18:07:24Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T18:12:24Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T18:12:57Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T18:17:59Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T18:17:59Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T18:22:59Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T18:23:38Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T18:29:20Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T18:29:20Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T18:34:20Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T18:34:55Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T18:43:40Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T18:43:40Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T18:48:40Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T18:49:18Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T18:55:20Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T18:55:20Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T19:00:20Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T19:00:59Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T19:07:21Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T19:07:21Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T19:12:21Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T19:13:01Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T19:19:03Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T19:19:03Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T19:24:03Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T19:24:36Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T19:30:38Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T19:30:38Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T19:35:38Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T19:36:15Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T19:42:41Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T19:42:41Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T19:47:41Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T19:48:18Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T19:55:21Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T19:55:21Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T20:00:21Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T20:01:10Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T20:06:31Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T20:06:31Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T20:11:31Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T20:12:05Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T20:17:06Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T20:17:06Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T20:22:06Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T20:22:40Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T20:28:22Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T20:28:22Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T20:33:22Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T20:33:58Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T20:39:00Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T20:39:00Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T20:44:00Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T20:44:29Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T20:50:11Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T20:50:11Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T20:55:11Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T20:55:46Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T21:02:09Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T21:02:09Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T21:07:09Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T21:07:56Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T21:14:18Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T21:14:19Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T21:19:19Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T21:20:03Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T21:25:04Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T21:25:05Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T21:30:05Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T21:30:43Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T21:37:26Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T21:37:26Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T21:42:26Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T21:43:04Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T21:50:28Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T21:50:28Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T21:55:28Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T21:56:08Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T22:02:30Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T22:02:31Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T22:07:31Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T22:08:02Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T22:18:29Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T22:18:29Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T22:23:29Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T22:23:51Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T22:31:54Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T22:31:55Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T22:36:55Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T22:37:33Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T22:44:35Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T22:44:36Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T22:49:36Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T22:50:05Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T22:58:09Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T22:58:09Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T23:03:09Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T23:03:53Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T23:09:35Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T23:09:35Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T23:14:35Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T23:15:20Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T23:21:02Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T23:21:02Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T23:26:02Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T23:26:43Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T23:31:24Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T23:31:24Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T23:36:24Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T23:37:04Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T23:42:06Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T23:42:06Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T23:47:06Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T23:47:44Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T23:53:26Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T23:53:26Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-01T23:58:26Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-01T23:58:51Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T00:04:13Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T00:04:13Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T00:09:13Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T00:09:58Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T00:16:00Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T00:16:00Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T00:21:00Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T00:21:30Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T00:27:12Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T00:27:13Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T00:27:13Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T00:28:48Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T00:37:32Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T00:37:32Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T00:42:32Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T00:43:09Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T00:50:12Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T00:50:12Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T00:50:12Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T00:50:54Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T00:58:38Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T00:58:38Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T01:03:38Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T01:04:21Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T01:09:22Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T01:09:23Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T01:09:23Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T01:10:00Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T01:16:02Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T01:16:02Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T01:21:02Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T01:21:39Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T01:27:20Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T01:27:21Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T01:27:21Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T01:27:59Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T01:38:04Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T01:38:05Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T01:43:05Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T01:43:28Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T01:49:09Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T01:49:10Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T01:49:10Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T01:49:49Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T01:55:30Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T01:55:31Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T02:00:31Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T02:01:07Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T02:08:10Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T02:08:10Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T02:08:10Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T02:08:38Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T02:15:20Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T02:15:21Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T02:20:21Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T02:21:01Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T02:26:02Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T02:26:02Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T02:26:02Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T02:26:44Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T02:33:46Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T02:33:47Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T02:38:47Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T02:39:22Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T02:46:25Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T02:46:25Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T02:46:25Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T02:47:05Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T02:50:45Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T02:50:45Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T02:55:45Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T02:56:22Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:01:23Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:01:23Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T03:01:23Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:01:46Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:02:07Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:02:07Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T03:07:07Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:07:44Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:15:07Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:15:07Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T03:15:07Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:15:36Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:20:37Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:20:37Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T03:25:37Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:26:16Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:33:19Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:33:19Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T03:33:19Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:33:55Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:38:56Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:38:56Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T03:43:56Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:44:37Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:50:59Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:50:59Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T03:50:59Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:51:30Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:58:53Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T03:58:53Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T04:03:53Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T04:04:24Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T04:11:27Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T04:11:27Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T04:11:27Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T04:12:08Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T04:18:30Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T04:18:30Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T04:23:30Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T04:24:10Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T04:29:52Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T04:29:52Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T04:29:52Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T04:30:33Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T04:35:14Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T04:35:14Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T04:40:14Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T04:40:52Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T04:45:53Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T04:45:53Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T04:45:53Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T04:46:36Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T04:51:37Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T04:51:37Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T04:56:37Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T04:57:12Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:02:12Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:02:13Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T05:02:13Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:02:49Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:07:51Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:07:51Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T05:12:51Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:13:22Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:18:04Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:18:04Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T05:18:04Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:18:44Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:25:27Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:25:27Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T05:30:27Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:31:06Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:36:07Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:36:08Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T05:36:08Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:36:35Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:41:36Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:41:36Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T05:46:36Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:47:02Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:52:03Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:52:03Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T05:52:03Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:52:39Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:57:40Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T05:57:40Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T06:02:40Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T06:03:16Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T06:08:17Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T06:08:17Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T06:08:17Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T06:08:55Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T06:13:56Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T06:13:56Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T06:18:56Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T06:19:40Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T06:27:04Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T06:27:04Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T06:27:04Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T06:27:41Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T06:38:27Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T06:38:27Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T06:43:27Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T06:44:02Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T06:49:44Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T06:49:44Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T06:49:44Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T06:50:06Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T06:57:09Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T06:57:09Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T07:02:09Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T07:02:47Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T07:08:28Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T07:08:28Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T07:08:28Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T07:09:04Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T07:13:45Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T07:13:45Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T07:18:45Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T07:19:06Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T07:24:48Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T07:24:48Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T07:24:48Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T07:25:31Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T07:31:54Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T07:31:54Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T07:36:54Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T07:37:39Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T07:42:19Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T07:42:19Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T07:42:19Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T07:43:03Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T07:48:05Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T07:48:05Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T07:53:05Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T07:53:41Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T08:00:03Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T08:00:03Z] grid-a32-lr1e-4-ep1: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T08:00:03Z] --- submitting grid-a32-lr1e-4-ep2 (artifacts/grid_a32_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T08:00:37Z] grid-a32-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T08:05:38Z] grid-a32-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T08:05:39Z] grid-a32-lr1e-4-ep2: submit rc=1: Code competition submissions require both the output file name and the version number
+
+[2026-06-02T08:10:39Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T08:11:17Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T08:12:04Z] submit_watcher start; expecting 8 adapters
+[2026-06-02T08:12:04Z] --- submitting grid-a32-lr1e-4-ep1 (artifacts/grid_a32_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T08:12:44Z] grid-a32-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T08:17:45Z] grid-a32-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T08:18:39Z] grid-a32-lr1e-4-ep1: SUBMITTED
+[2026-06-02T08:18:39Z] --- submitting grid-a32-lr2e-4-ep1 (artifacts/grid_a32_lr2e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T08:20:21Z] grid-a32-lr2e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T08:27:04Z] grid-a32-lr2e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T08:27:46Z] grid-a32-lr2e-4-ep1: SUBMITTED
+[2026-06-02T15:32:46Z] --- submitting grid-a32-lr2e-4-ep2 (artifacts/grid_a32_lr2e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T15:34:22Z] grid-a32-lr2e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T15:42:05Z] grid-a32-lr2e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T15:42:59Z] grid-a32-lr2e-4-ep2: SUBMITTED
+[2026-06-02T23:12:59Z] --- submitting grid-a64-lr1e-4-ep1 (artifacts/grid_a64_lr1e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T23:14:44Z] grid-a64-lr1e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T23:22:48Z] grid-a64-lr1e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-02T23:23:46Z] grid-a64-lr1e-4-ep1: SUBMITTED
+[2026-06-03T06:38:46Z] --- submitting grid-a64-lr1e-4-ep2 (artifacts/grid_a64_lr1e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-03T06:40:34Z] grid-a64-lr1e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-03T06:48:37Z] grid-a64-lr1e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-03T06:49:24Z] grid-a64-lr1e-4-ep2: SUBMITTED
+[2026-06-03T14:19:24Z] --- submitting grid-a64-lr2e-4-ep1 (artifacts/grid_a64_lr2e-4/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-03T14:21:36Z] grid-a64-lr2e-4-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-03T14:32:02Z] grid-a64-lr2e-4-ep1: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-03T14:32:54Z] grid-a64-lr2e-4-ep1: SUBMITTED
+[2026-06-03T21:47:54Z] --- submitting grid-a64-lr2e-4-ep2 (artifacts/grid_a64_lr2e-4/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-03T21:49:29Z] grid-a64-lr2e-4-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-03T21:56:53Z] grid-a64-lr2e-4-ep2: kernel COMPLETE
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-03T21:57:43Z] grid-a64-lr2e-4-ep2: SUBMITTED
+[2026-06-03T21:57:43Z] all 8 adapters submitted; watcher exiting
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-07T14:56:30Z] submit_watcher start; expecting 3 adapters
+[2026-06-07T22:51:30Z] --- submitting eqguess-a64lr1e4-3ep-ep1 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-07T22:52:54Z] eqguess-a64lr1e4-3ep-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-07T23:31:11Z] eqguess-a64lr1e4-3ep-ep1: kernel never completed
+[2026-06-07T23:36:11Z] --- submitting eqguess-a64lr1e4-3ep-ep1 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-07T23:36:58Z] eqguess-a64lr1e4-3ep-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T00:15:15Z] eqguess-a64lr1e4-3ep-ep1: kernel never completed
+[2026-06-08T00:20:15Z] --- submitting eqguess-a64lr1e4-3ep-ep1 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T00:20:57Z] eqguess-a64lr1e4-3ep-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T00:59:15Z] eqguess-a64lr1e4-3ep-ep1: kernel never completed
+[2026-06-08T01:04:15Z] --- submitting eqguess-a64lr1e4-3ep-ep1 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T01:04:54Z] eqguess-a64lr1e4-3ep-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T01:43:11Z] eqguess-a64lr1e4-3ep-ep1: kernel never completed
+[2026-06-08T01:48:11Z] --- submitting eqguess-a64lr1e4-3ep-ep1 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T01:48:49Z] eqguess-a64lr1e4-3ep-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T02:27:07Z] eqguess-a64lr1e4-3ep-ep1: kernel never completed
+[2026-06-08T02:32:07Z] --- submitting eqguess-a64lr1e4-3ep-ep1 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T02:32:44Z] eqguess-a64lr1e4-3ep-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T03:11:01Z] eqguess-a64lr1e4-3ep-ep1: kernel never completed
+[2026-06-08T03:16:01Z] --- submitting eqguess-a64lr1e4-3ep-ep1 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T03:16:44Z] eqguess-a64lr1e4-3ep-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T03:55:01Z] eqguess-a64lr1e4-3ep-ep1: kernel never completed
+[2026-06-08T04:00:01Z] --- submitting eqguess-a64lr1e4-3ep-ep1 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T04:00:39Z] eqguess-a64lr1e4-3ep-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T04:38:56Z] eqguess-a64lr1e4-3ep-ep1: kernel never completed
+[2026-06-08T04:43:56Z] --- submitting eqguess-a64lr1e4-3ep-ep1 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T04:44:35Z] eqguess-a64lr1e4-3ep-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T05:22:52Z] eqguess-a64lr1e4-3ep-ep1: kernel never completed
+[2026-06-08T05:27:52Z] --- submitting eqguess-a64lr1e4-3ep-ep1 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T05:28:24Z] eqguess-a64lr1e4-3ep-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T06:06:42Z] eqguess-a64lr1e4-3ep-ep1: kernel never completed
+[2026-06-08T06:11:42Z] --- submitting eqguess-a64lr1e4-3ep-ep1 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T06:12:10Z] eqguess-a64lr1e4-3ep-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T06:50:27Z] eqguess-a64lr1e4-3ep-ep1: kernel never completed
+[2026-06-08T06:55:27Z] --- submitting eqguess-a64lr1e4-3ep-ep1 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T06:55:59Z] eqguess-a64lr1e4-3ep-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T07:34:17Z] eqguess-a64lr1e4-3ep-ep1: kernel never completed
+[2026-06-08T07:34:17Z] --- submitting eqguess-a64lr1e4-3ep-ep2 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T07:35:52Z] eqguess-a64lr1e4-3ep-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T08:14:11Z] eqguess-a64lr1e4-3ep-ep2: kernel never completed
+[2026-06-08T08:19:11Z] --- submitting eqguess-a64lr1e4-3ep-ep1 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T08:19:47Z] eqguess-a64lr1e4-3ep-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T08:58:05Z] eqguess-a64lr1e4-3ep-ep1: kernel never completed
+[2026-06-08T08:58:05Z] --- submitting eqguess-a64lr1e4-3ep-ep2 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T08:58:35Z] eqguess-a64lr1e4-3ep-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T09:36:53Z] eqguess-a64lr1e4-3ep-ep2: kernel never completed
+[2026-06-08T09:41:53Z] --- submitting eqguess-a64lr1e4-3ep-ep1 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T09:42:32Z] eqguess-a64lr1e4-3ep-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T10:20:51Z] eqguess-a64lr1e4-3ep-ep1: kernel never completed
+[2026-06-08T10:20:51Z] --- submitting eqguess-a64lr1e4-3ep-ep2 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T10:21:27Z] eqguess-a64lr1e4-3ep-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T10:59:47Z] eqguess-a64lr1e4-3ep-ep2: kernel never completed
+[2026-06-08T11:04:47Z] --- submitting eqguess-a64lr1e4-3ep-ep1 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T11:05:27Z] eqguess-a64lr1e4-3ep-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T11:43:46Z] eqguess-a64lr1e4-3ep-ep1: kernel never completed
+[2026-06-08T11:43:46Z] --- submitting eqguess-a64lr1e4-3ep-ep2 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T11:44:15Z] eqguess-a64lr1e4-3ep-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T12:22:33Z] eqguess-a64lr1e4-3ep-ep2: kernel never completed
+[2026-06-08T12:27:33Z] --- submitting eqguess-a64lr1e4-3ep-ep1 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T12:28:21Z] eqguess-a64lr1e4-3ep-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T13:06:43Z] eqguess-a64lr1e4-3ep-ep1: kernel never completed
+[2026-06-08T13:06:43Z] --- submitting eqguess-a64lr1e4-3ep-ep2 (artifacts/eqguess_a64lr1e4_3ep/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T13:07:15Z] eqguess-a64lr1e4-3ep-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T13:47:24Z] submit_watcher start; expecting 3 adapters
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:44: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T16:29:57Z] submit_watcher start; expecting 3 adapters
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-08T16:30:42Z] submit_watcher start; expecting 3 adapters
+[2026-06-09T00:30:42Z] --- submitting eqguess-rep4-a64lr1e4-3ep-ep1 (artifacts/eqguess_rep4_a64lr1e4_3ep/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-09T00:32:35Z] eqguess-rep4-a64lr1e4-3ep-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-09T00:32:37Z] eqguess-rep4-a64lr1e4-3ep-ep1: pushed kernel v126
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-09T00:42:22Z] eqguess-rep4-a64lr1e4-3ep-ep1: SUBMITTED (code v126)
+[2026-06-09T08:22:22Z] --- submitting eqguess-rep4-a64lr1e4-3ep-ep2 (artifacts/eqguess_rep4_a64lr1e4_3ep/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-09T08:23:57Z] eqguess-rep4-a64lr1e4-3ep-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-09T08:23:59Z] eqguess-rep4-a64lr1e4-3ep-ep2: pushed kernel v127
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-09T08:31:03Z] eqguess-rep4-a64lr1e4-3ep-ep2: SUBMITTED (code v127)
+[2026-06-09T16:16:03Z] --- submitting eqguess-rep4-a64lr1e4-3ep-ep3 (artifacts/eqguess_rep4_a64lr1e4_3ep/adapter_ep3) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-09T16:17:41Z] eqguess-rep4-a64lr1e4-3ep-ep3: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-09T16:17:43Z] eqguess-rep4-a64lr1e4-3ep-ep3: pushed kernel v128
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-09T16:28:49Z] eqguess-rep4-a64lr1e4-3ep-ep3: SUBMITTED (code v128)
+[2026-06-09T16:28:49Z] all 3/3 target adapters submitted; watcher exiting
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-09T17:57:49Z] submit_watcher start; expecting 3 adapters
+[2026-06-10T02:07:49Z] --- submitting eqguess-3x-a64lr1e4-3ep-ep1 (artifacts/eqguess_3x_a64lr1e4_3ep/adapter_ep1) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-10T02:09:26Z] eqguess-3x-a64lr1e4-3ep-ep1: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-10T02:09:28Z] eqguess-3x-a64lr1e4-3ep-ep1: pushed kernel v129
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-10T02:15:11Z] eqguess-3x-a64lr1e4-3ep-ep1: SUBMITTED (code v129)
+[2026-06-10T10:05:11Z] --- submitting eqguess-3x-a64lr1e4-3ep-ep2 (artifacts/eqguess_3x_a64lr1e4_3ep/adapter_ep2) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-10T10:06:43Z] eqguess-3x-a64lr1e4-3ep-ep2: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-10T10:06:44Z] eqguess-3x-a64lr1e4-3ep-ep2: pushed kernel v130
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-10T10:13:48Z] eqguess-3x-a64lr1e4-3ep-ep2: SUBMITTED (code v130)
+[2026-06-10T17:58:48Z] --- submitting eqguess-3x-a64lr1e4-3ep-ep3 (artifacts/eqguess_3x_a64lr1e4_3ep/adapter_ep3) ---
+Traceback (most recent call last):
+  File "/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py", line 227, in <module>
+    main()
+  File "/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py", line 214, in main
+    submit_one(adapter_dir, run_name, ep, st)
+  File "/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py", line 141, in submit_one
+    stage, err = stage_adapter(adapter_dir, slug, desc)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py", line 89, in stage_adapter
+    os.makedirs(stage, exist_ok=True)
+  File "<frozen os>", line 225, in makedirs
+OSError: [Errno 28] No space left on device: 'kaggle_upload/eqguess-3x-a64lr1e4-3ep-ep3'
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-10T21:09:06Z] submit_watcher start; expecting 3 adapters
+[2026-06-10T21:09:06Z] all 3/3 target adapters submitted; watcher exiting
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-10T21:18:04Z] submit_watcher start; expecting 6 adapters
+[2026-06-10T21:18:04Z] --- submitting eqguess-3x-a64lr1e4-3ep-ep3 (artifacts/eqguess_3x_a64lr1e4_3ep/adapter_ep3) ---
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-10T21:19:30Z] eqguess-3x-a64lr1e4-3ep-ep3: model ready
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-10T21:19:32Z] eqguess-3x-a64lr1e4-3ep-ep3: pushed kernel v131
+/home/ec2-user/dev/nemotron_training/submit/submit_watcher.py:43: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  return datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+[2026-06-10T21:29:18Z] eqguess-3x-a64lr1e4-3ep-ep3: SUBMITTED (code v131)

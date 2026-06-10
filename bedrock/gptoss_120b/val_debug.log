@@ -1,0 +1,2 @@
+[gptoss_120b] model=openai.gpt-oss-120b-1:0 sample=4 n_gens=4 todo=0 (done=32)
+[gptoss_120b] DONE 0 calls, ok=0 err=0 in 0.0m

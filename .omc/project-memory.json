@@ -1,0 +1,264 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1780304093682,
+  "projectRoot": "/home/ec2-user/dev/nemotron_training",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "artifacts": {
+      "path": "artifacts",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1780304093678,
+      "keyFiles": []
+    },
+    "bedrock": {
+      "path": "bedrock",
+      "purpose": null,
+      "fileCount": 7,
+      "lastAccessed": 1780304093678,
+      "keyFiles": [
+        "aggregate.py",
+        "bitman_sample.jsonl",
+        "driver.py",
+        "eqguess_sample.jsonl",
+        "sample.jsonl"
+      ]
+    },
+    "eval": {
+      "path": "eval",
+      "purpose": null,
+      "fileCount": 9,
+      "lastAccessed": 1780304093679,
+      "keyFiles": [
+        "build_heldout.py",
+        "grader.py",
+        "heldout_ids.txt",
+        "heldout_parity_v1.log",
+        "score_heldout.py"
+      ]
+    },
+    "foundation": {
+      "path": "foundation",
+      "purpose": null,
+      "fileCount": 5,
+      "lastAccessed": 1780304093680,
+      "keyFiles": [
+        "build_venv.log",
+        "build_venv.sh",
+        "download.log",
+        "download_all.sh",
+        "requirements.lock"
+      ]
+    },
+    "kaggle_submission": {
+      "path": "kaggle_submission",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1780304093680,
+      "keyFiles": [
+        "kernel-metadata.json",
+        "nemotron-submission.ipynb"
+      ]
+    },
+    "kaggle_upload": {
+      "path": "kaggle_upload",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1780304093680,
+      "keyFiles": [
+        "instance_upload.log",
+        "parity_v1_upload.log"
+      ]
+    },
+    "nemotron_context": {
+      "path": "nemotron_context",
+      "purpose": null,
+      "fileCount": 3,
+      "lastAccessed": 1780304093680,
+      "keyFiles": [
+        "competition_description.txt",
+        "winner_pub_p1.txt",
+        "winner_pub_p2.txt"
+      ]
+    },
+    "puzzle_team": {
+      "path": "puzzle_team",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1780304093680,
+      "keyFiles": [
+        "PROTOCOL.md",
+        "harness.py"
+      ]
+    },
+    "reference_kernels": {
+      "path": "reference_kernels",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1780304093680,
+      "keyFiles": []
+    },
+    "submission_kernel_ref": {
+      "path": "submission_kernel_ref",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1780304093680,
+      "keyFiles": [
+        "kernel-metadata.json",
+        "nvidia-nemotron-trained-models-submission.ipynb"
+      ]
+    },
+    "train": {
+      "path": "train",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1780304093680,
+      "keyFiles": [
+        "train_sft.py"
+      ]
+    },
+    "unsloth_compiled_cache": {
+      "path": "unsloth_compiled_cache",
+      "purpose": null,
+      "fileCount": 16,
+      "lastAccessed": 1780304093681,
+      "keyFiles": [
+        "UnslothBCOTrainer.py",
+        "UnslothCPOTrainer.py",
+        "UnslothDPOTrainer.py",
+        "UnslothGKDTrainer.py",
+        "UnslothGRPOTrainer.py"
+      ]
+    },
+    "winner_repo": {
+      "path": "winner_repo",
+      "purpose": null,
+      "fileCount": 34,
+      "lastAccessed": 1780304093681,
+      "keyFiles": [
+        "CLAUDE.md",
+        "CNAME",
+        "README.md",
+        "augmentation.py",
+        "base.html"
+      ]
+    },
+    "puzzle_team/data": {
+      "path": "puzzle_team/data",
+      "purpose": "Data files",
+      "fileCount": 5,
+      "lastAccessed": 1780304093681,
+      "keyFiles": [
+        "bit_manipulation.jsonl",
+        "cryptarithm_deduce.jsonl",
+        "cryptarithm_guess.jsonl"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "submit/submit_watcher.py",
+      "accessCount": 15,
+      "lastAccessed": 1781126251292,
+      "type": "file"
+    },
+    {
+      "path": "train/train_sft.py",
+      "accessCount": 13,
+      "lastAccessed": 1781126188005,
+      "type": "file"
+    },
+    {
+      "path": "puzzle_team/results/eqguess_capture_quality.md",
+      "accessCount": 2,
+      "lastAccessed": 1780387246760,
+      "type": "file"
+    },
+    {
+      "path": "puzzle_team/solvers/equation_guess_rule.py",
+      "accessCount": 2,
+      "lastAccessed": 1780387247741,
+      "type": "file"
+    },
+    {
+      "path": "puzzle_team/results/eqguess_analysis.md",
+      "accessCount": 2,
+      "lastAccessed": 1780387247820,
+      "type": "file"
+    },
+    {
+      "path": "train/grid_runner.sh",
+      "accessCount": 1,
+      "lastAccessed": 1780305203347,
+      "type": "file"
+    },
+    {
+      "path": "puzzle_team/results/bitman_capture_audit.md",
+      "accessCount": 1,
+      "lastAccessed": 1780305771301,
+      "type": "file"
+    },
+    {
+      "path": "puzzle_team/results/bitman_verify.py",
+      "accessCount": 1,
+      "lastAccessed": 1780305771762,
+      "type": "file"
+    },
+    {
+      "path": "puzzle_team/results/bitman_capture_quality_v2.md",
+      "accessCount": 1,
+      "lastAccessed": 1780305984919,
+      "type": "file"
+    },
+    {
+      "path": "eval/grader.py",
+      "accessCount": 1,
+      "lastAccessed": 1780328139535,
+      "type": "file"
+    },
+    {
+      "path": "puzzle_team/results/bitman_reverify.md",
+      "accessCount": 1,
+      "lastAccessed": 1780337243325,
+      "type": "file"
+    },
+    {
+      "path": "train/investigate_eqguess_diversity.py",
+      "accessCount": 1,
+      "lastAccessed": 1780427153923,
+      "type": "file"
+    },
+    {
+      "path": "bedrock/driver.py",
+      "accessCount": 1,
+      "lastAccessed": 1780486550098,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

@@ -1,0 +1,42 @@
+[16:12:23] Creating venv (Python 3.12) at /home/ec2-user/dev/nemotron_training/foundation/.venv
+Using CPython 3.12.13 interpreter at: /usr/bin/python3.12
+Creating virtual environment at: foundation/.venv
+Activate with: source foundation/.venv/bin/activate
+[16:12:24] 1) torch 2.10.0 (matches mamba/causal/flash cu12torch2.10 wheels)
+ + torch==2.10.0
+ + triton==3.6.0
+ + typing-extensions==4.15.0
+[16:13:50] 2) core stack from offline wheels (konbu17 set)
+ + trl==0.29.1
+ + typer==0.24.1
+ + urllib3==2.6.3
+ + xxhash==3.6.0
+ + yarl==1.23.0
+[16:13:56] 3) mamba_ssm + causal_conv1d (cp312 torch2.10 cu12 abiTRUE), --no-deps
+[16:13:56]   causal=
+[16:13:56]   mamba=
+[16:13:56] 4) vllm 0.18.0 (for local eval harness)
+ + vllm==0.18.0
+ + watchfiles==1.1.1
+ + websockets==16.0
+ + xgrammar==0.1.33
+ + zipp==3.23.0
+[16:14:19] 5) freeze -> foundation/requirements.lock
+[16:14:19] lock lines: 183
+[16:14:19] 6) import smoke test
+python 3.12.13
+OK  torch 2.10.0+cu128
+OK  transformers 4.57.6
+OK  peft 0.18.1
+OK  trl 0.29.1
+OK  datasets 4.8.4
+OK  accelerate 1.13.0
+ERR mamba_ssm: ModuleNotFoundError: No module named 'mamba_ssm'
+ERR causal_conv1d: ModuleNotFoundError: No module named 'causal_conv1d'
+OK  triton 3.6.0
+OK  vllm 0.18.0
+torch.cuda.is_available: True
+torch.version.cuda: 12.8
+device: NVIDIA RTX PRO 6000 Blackwell Server Edition
+capability: (12, 0)
+[16:14:37] BUILD_VENV DONE

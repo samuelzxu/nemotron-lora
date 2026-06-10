@@ -1,0 +1,4 @@
+{"id": "00c032a8", "gen": 1, "category": "cryptarithm_deduce", "status": "rule_unknown", "correct": false, "extracted": "#?", "answer": "\\^?", "has_box": true, "out_tokens": 2100, "reasoning_chars": 0, "stop": "end_turn"}
+{"id": "00457d26", "gen": 0, "category": "cryptarithm_deduce", "status": "rule_unknown", "correct": false, "extracted": "[!@", "answer": "@&", "has_box": true, "out_tokens": 2403, "reasoning_chars": 0, "stop": "end_turn"}
+{"id": "00c032a8", "gen": 0, "category": "cryptarithm_deduce", "status": "rule_unknown", "correct": false, "extracted": "#?", "answer": "\\^?", "has_box": true, "out_tokens": 2449, "reasoning_chars": 0, "stop": "end_turn"}
+{"id": "00457d26", "gen": 1, "category": "cryptarithm_deduce", "status": "rule_unknown", "correct": false, "extracted": "[[\\", "answer": "@&", "has_box": true, "out_tokens": 2482, "reasoning_chars": 0, "stop": "end_turn"}

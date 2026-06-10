@@ -1,0 +1,252 @@
+Strategy to solve 85% of bit manipulation
+This is part of my publication for the Open Progress Prize.
+I read the 0.73 scoring notebook from @llkh0a / Kh0a.
+The approach described in Kh0a's notebook is actually very similar to mine
+	•	Use code to write synthetic CoT traces
+	•	Train SFT on the synthetic CoT traces
+	•	Make the submission
+Kh0a reports the following validation score.
+Per-category:
+  bit_manipulation: 35/160 = 21.88%
+  gravity_physics: 160/160 = 100.00%
+  numeral_system: 158/158 = 100.00%
+  numeric_equation: 51/73 = 69.86%
+  symbol_transform: 0/82 = 0.00%
+  text_decryption: 145/158 = 91.77%
+  unit_conversion: 159/159 = 100.00%
+Overall: 708/950 = 74.53%
+Weighted CV score: 74.76%
+
+Kh0a's algorithm solves only 35/160 of bit manipulation problems.
+I have an algorithm that solves 1364 of 1602 bit manipulation problems (85.1%).
+85.1% of 160 is around 136. The additional 136 - 35 = 101 correct solutions will bring the overall score from 708/950 to 809/950 which is approximately 85%, which is the same as my winning submission score.
+If Kh0a was actually able to perfectly train the model to generate exactly the chain of thought, Kh0a would have won the progress prize.
+I describe my algorithm for bit manipulation here in a separate post.
+I do not want my main post to have 50% bit manipulation content, even though it accounts for more than half of the difference with Kh0a's notebook. This also allows me to elaborate more on the bit manipulation problem here.
+
+This task asks to discover a per-bit transformation rule from input-output examples of 8-bit binary numbers.
+I consider three possible transformations, each with seven possible values
+	•	ROT (rotation)
+	•	SHR (shift right)
+	•	SHL (shift left)
+There are 7 + 7 + 7 = 21 possible transformations.
+I consider six possible operations
+	•	AND and AND-NOT
+	•	OR and OR-NOT
+	•	XOR and XOR-NOT
+I consider up to three transformations per expression
+	•	One-transformation: ROT(4)
+	•	Two-transformation: SHL(3) XOR NOT SHL(6)
+	•	Three-transformation: (ROT(5) AND NOT SHR(4)) XOR NOT SHL(4)
+In the training data alone, there are 622 expressions
+	•	One-transformation: 20
+	•	Two-transformation: 318
+	•	Three-transformation: 284
+However, the 622 expressions do not cover all possible expressions.
+Consider the following template (ROT(X) AND NOT SHR(Y)) XOR NOT SHL(Z)
+There are already 12,348 possible expressions for this template
+	•	7 possible values for ROT(X)
+	•	6 possible operations for ROT and SHR
+	•	7 possible values for SHR(Y)
+	•	6 possible operations for ROT+SHR and SHL
+	•	7 possible values for SHL(Z)
+You are only allowed 7680 tokens for your completion. Even if you spend only one token testing one expression, you will run out of tokens.
+Insight
+I am still able to solve a significant majority of the three-transformation expressions.
+This is my key insight — instead of iterating over the possible expressions, I iterate over the possible pairs of input bits that produce the output bit.
+For example, (SHL(5) XOR SHR(5)) AND ROT(7) can be read like this
+SHL(5)                                      0     1     2  
+SHR(5)        5     6     7               
+ROT(7)        7     0     1     2     3     4     5     6
+
+Relevant     57    60    71    x2    x3    04    15    26
+Operation AND57 AND60 AND71    C0    C0 AND04 AND15 AND26
+
+(Note: it is C0 for constant 0 because the left-hand side of the AND operation is zero)
+My algorithm only works if the number of relevant bits for each output is at most 2. I am not able to solve three-transformation expressions involving SHL(x) and SHR(y) where x + y < 8.
+One example of a three-transformation expression is (SHL(3) XOR SHR(3)) AND ROT(7)
+SHL(3)                          0     1     2     3     4
+SHR(3)        3     4     5     6     7              
+ROT(7)        7     0     1     2     3     4     5     6
+
+Relevant     37    40    51   062   173    24    35    46
+Operation AND37 AND40 AND51   ???   ??? AND24 AND35 AND46
+
+You see that there are output bits that depend on three input bits. My solution does not cover these problems.
+If I am not able to match the middle part with a stride compliant binary operator, I will just default to answering with bit value 1.
+Algorithm
+I described that the number of expressions is too large to enumerate directly.
+I need to test 18 possible unary combinations
+	•	8 possible positions
+	•	8 possible negated positions
+	•	2 possible constants
+I need to test 336 possible binary combinations
+	•	8 possible positions for the first input
+	•	7 possible positions for the second input
+	•	6 possible operations
+In total, I need to test 354 possible combinations.
+I spend around 17 tokens to test each combination
+	•	2 tokens to denote the input bit positions
+	•	10 tokens for up to 10 possible example test cases. For symmetric operators like AND, I only print half the binary strings.
+	•	1 bitsum to make matching easier
+	•	3 spaces for formatting
+	•	1 newline
+	•	more if there is a match
+The section looks like this
+AND
+01 10 1001000 2
+12 21 1000000 1
+23 32 0010000 1
+34 43 0011000 2
+45 54 0001100 2
+56 65 0000100 1
+67 76 0000100 1
+70 07 1001010 3
+
+02 20 1000000 1
+13 31 0001000 1 match 5
+24 42 0010000 1
+35 53 0001010 2
+46 64 0000100 1
+57 75 1001110 4 match 0
+60 06 0000001 1 match 1
+71 17 1001100 3 match 2 6
+
+03 30 0001010 2
+14 41 0001100 2
+25 52 1000000 1
+36 63 0000000 a match 3 4 7
+47 74 0001100 2
+50 05 1001010 3
+61 16 0000100 1
+72 27 1000000 1
+
+04 40 0001000 1 match 5
+15 51 1001100 3 match 2 6
+26 62 0000000 a match 3 4 7
+37 73 0001010 2
+
+Matching output
+0 57 75
+1 60 06
+2 71 17 15 51
+3 36 63 26 62
+4 36 63 26 62
+5 13 31 04 40
+6 71 17 15 51
+7 36 63 26 62
+
+Notice that I compute the bitsum instead of simply matching two binary strings that are far apart from each other. The bitsum acts as a hash (a represents a bitsum if all same, to keep it to one character). If the bitsum does not match, there is definitely no match. This helps to reduce false positives of matches. I think the bitsum is being computed reliably. Now I do not see matches being declared on sequences with a different bitsum.
+The total budget here is approximately 354 * 17 = 6018 tokens, which forms the bulk of the allowed 7680 tokens.
+You notice that in the sequence
+Operation AND57 AND60 AND71    C0    C0 AND04 AND15 AND26
+
+The transition between each element is +1/+1.
+AND57 -> AND60
+
+So I match from the left and from the right.
+For each binary combination matching the first bit of the output, I add one (modulo 8) to each input index and check if it appears in the second bit of the output, continuing until it does not match.
+The matching part of the chain of thought looks like this.
+Left
+57 60 71 02x
+75 06 17 20x
+Best: AND57 60 71: 3
+
+Right
+36 25x
+63 52x
+26 15 04 73x
+62 51 40 37x
+Best: AND26 15 04: 3
+
+You notice that I probe the next pair of indices instead of terminating with a newline. The idea here is that I want to break down the computation per token.
+Instead of having one token to
+1) calculate the next pair of indices
+2) identify whether the pair has appeared with the operator
+3) identify whether the appearance is in the correct position
+I split step 1 from steps 2 and 3. If 2 is false, return the x token. If 3 is false, return the y token. Otherwise, return the whitespace token and continue calculating the next pair of indices. It seems that the model is able to reliably produce the x token, but the model could not reliably differentiate whether to produce the y token or the whitespace token.
+The best match is the longest sequence. For tie-breaking, I simply choose the sequence that appears earlier.
+After iterating over all the combinations, I choose the operations.
+I choose the longest stride, starting from whichever side is having more matches. To tie break, I have a priority order of operators.
+Left longest: 3
+Right longest: 3
+
+Left winner: Identity no, NOT no, Constant no, AND yes, OR no, XOR no, AND-NOT no, OR-NOT no, XOR-NOT no
+Right winner: Identity no, NOT no, Constant no, AND yes, OR no, XOR no, AND-NOT no, OR-NOT no, XOR-NOT no
+
+Best left: AND57 60 71: 3
+Best right: AND26 15 04: 3
+
+Truncated left: AND57 60 71: 3
+Truncated right: AND26 15 04: 3
+
+If the left stride and the right stride do not fill up the full sequence, I fill in the middle with a stride-compliant sequence.
+Preferred
+0 AND57
+1 AND60
+2 AND71
+3 ?02 ?20
+4 ?13 ?31
+5 AND04
+6 AND15
+7 AND26
+
+Matching
+0 AND57
+1 AND60
+2 AND71
+3 ?02 ?20 - Identity absent, NOT absent, Constant C0, AND absent, OR absent, XOR absent, AND-NOT absent, OR-NOT absent, XOR-NOT absent
+4 ?13 ?31 - Identity absent, NOT absent, Constant C0, AND absent, OR absent, XOR absent, AND-NOT absent, OR-NOT absent, XOR-NOT absent
+5 AND04
+6 AND15
+7 AND26
+
+Perfect match
+Identity no
+NOT no
+Constant yes
+AND no
+OR no
+XOR no
+AND-NOT no
+OR-NOT no
+XOR-NOT no
+
+In this case, the constant value fits the middle section.
+Then I construct the result.
+Selected
+0 AND57
+1 AND60
+2 AND71
+3 C0
+4 C0
+5 AND04
+6 AND15
+7 AND26
+
+Applying to 10001001
+Input
+0 1
+1 0
+2 0
+3 0
+4 1
+5 0
+6 0
+7 1
+Output
+0 AND57 = AND(0,1) = 0
+1 AND60 = AND(0,1) = 0
+2 AND71 = AND(1,0) = 0
+3 C0 = 0
+4 C0 = 0
+5 AND04 = AND(1,1) = 1
+6 AND15 = AND(0,0) = 0
+7 AND26 = AND(0,0) = 0
+
+I will now return the answer in \boxed{}
+The answer in \boxed{–} is \boxed{00000100}
+
+The full chain of thought is available here
+https://nemotron.huikang.dev/corpus.html?category=bit_manipulation
+I hope this is useful!

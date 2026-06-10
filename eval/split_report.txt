@@ -1,0 +1,13 @@
+category            total  heldout  train
+bit_manipulation     1354      203   1151
+cipher               1576      236   1340
+cryptarithm_deduce     54       15     39
+cryptarithm_guess      11        5      6
+equation_numeric_deduce    540       81    459
+equation_numeric_guess     21       10     11
+gravity               975      146    829
+numeral               650       98    552
+unit_conversion       990      148    842
+----------------------------------------
+TOTAL                6171      942   5229
+disjoint: True   covers_all: True

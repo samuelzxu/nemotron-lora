@@ -1,0 +1,143 @@
+# Ralph progress — Nemotron LoRA (plan: .omc/plans/nemotron-lora-plan.md)
+
+## Iteration 1 (2026-05-31)
+
+### US-001 — Tooling + creds  [PASS]
+- uv 0.11.17 at ~/.local/bin/uv ; git-lfs 3.7.1 ; node 18 / npm present from earlier.
+- Kaggle auth OK (source ~/.claudeinit; never print). Fixed perms: chmod 600 ~/.kaggle/kaggle.json.
+- AWS OK: default profile, IAM user "sam". (~/.aws/credentials — never read/print.)
+- GPU: RTX PRO 6000 Blackwell, 96GB, idle. Disk: 178GB free at start.
+
+### US-002 — Downloads  [IN PROGRESS, background]
+- Script: foundation/download_all.sh ; log: foundation/download.log ; bg task id bahp3kdmh.
+- Pulls 5 datasets (nemotron-packages, nemotron-cot-tong, nvidia-nemotron-offline-packages,
+  nvidia-cutlass, trained-adapter) + base model nemotron-3-nano-30b-a3b-bf16 (~60GB, long pole).
+
+### Prep done (non-blocking)
+- Cloned winner's repo -> winner_repo/ (github.com/tonghuikang/nemotron). KEY CONTENTS:
+  - reasoners/{bit_manipulation,cryptarithm,equation_numeric,cipher,gravity,numeral}.py
+    = deterministic CoT generators (THE source for US-008 bit_manip front + trace regen).
+  - investigators/{bit_manipulation,bit_manipulation_analysis,cryptarithm_deduce}.py = analysis.
+  - augmenters/{concatenation,matching,spelling,splitting}.py = token-level helpers.
+  - reasoning.py (trace driver), train_sft.py/train_common.py/notebook_tinker.py (Tinker training),
+    corpus.jsonl, problems.jsonl, train.csv, upload_adapter.py.
+
+## Key learnings / facts (for future iterations)
+- ENV PARITY: dgxchen notebook machine_shape = NvidiaRtxPro6000 (SAME Blackwell as us AND the judge).
+  Notebook applies Blackwell ptxas fixes (ptxas-blackwell, TRITON_PTXAS_BLACKWELL_PATH,
+  get_ptxas_version->'12.0'). Replicate these in the venv (US-003).
+- RECIPE (proven 0.85): unsloth get_peft_model r=32 alpha=32 dropout0, targets
+  [q,k,v,o,in_proj,out_proj,up_proj,down_proj], NO lm_head; bf16; attn eager; max_seq 8192.
+  Native HF PEFT adapter (adapter_config.json + adapter_model.safetensors). NO SVD (that was Tinker).
+- TRAINING ARGS: 1 epoch, microbatch=1 (FIXED — batch2 => -0.10 LB!), grad_accum 32, LR 2e-4 linear,
+  warmup0, betas(0.9,0.95), wd0, max_grad_norm 1e9, packing False, stratified-by-`type` sampler.
+- DATA: dgxchen 0.85 already trains on winner's CoT = nemotron-cot-tong/problem_ids_matched.csv
+  (cols prompt,answer,generated_cot,type). Headroom = ADD better hard-cat CoT to this CSV.
+- PACKAGING: ~10 lines (copy 2 files, set base_model_name_or_path + inference_mode + lora_dropout0, zip).
+  Ready-made dgxchen/trained-adapter dataset -> submit day1 for LB calibration (US-006).
+- Base model id: nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16 ; kaggle: metric/nemotron-3-nano-30b-a3b-bf16/transformers/default/1.
+- NEXT (blocked on download): US-003 build venv from offline wheels + Blackwell fixes (gate G0),
+  US-004 adapter-loads-under-judge (gate G0.5), US-005 eval harness + held-out split.
+
+## Strategy (user-approved): 3 fronts at full force
+1. bit_manipulation deterministic CoT (winner_repo/reasoners/bit_manipulation.py -> extend 3-transform tail).
+2. Full 8-model Bedrock team on all 4 hard categories (greedy-reproducibility MEASURED, not a gate).
+3. Modest hyperparameter tuning (microbatch=1 FIXED). User flagged bit_manip as possible diminishing returns.
+
+## Iteration 2 (2026-05-31) — execution-model clarification from user
+- HARD CONSTRAINT: ALL GPU work (training + local vLLM eval) runs on OUR LOCAL Blackwell.
+  We CANNOT run Kaggle accelerator notebooks. I CAN trigger Kaggle kernel pushes + submissions.
+- SUBMISSION PLUMBING (deliverable B) = the user's reference kernel
+  samuelzxu/nvidia-nemotron-trained-models-submission (enable_gpu=FALSE, enable_internet=true):
+  trained adapters are hosted as Kaggle MODEL versions (model_sources, mounted at
+  /kaggle/input/models/<owner>/<model>/<framework>/<variation>/<version>); kernel just does
+  `os.system('zip -r submission.zip "<model_path>"')`. So our loop:
+  train locally -> `kaggle models version` upload adapter -> push no-accel kernel referencing it
+  -> submit. All CLI, all doable by me.
+- Competitor kienngx's hosted versions give real sweep points (target_modules="all-linear",
+  ["in_proj","x_proj","dt_proj","out_proj"], batch1 lr1e-4, sample counts 600/1200/2400/3000/9500).
+- REVISED near-term acceptance ("at a glance"), folded into PRD:
+  A) US-009: local hyperparam sweep with >=0.83 on local heldout.
+  B) US-006: upload adapter as Kaggle model + working no-accel submission kernel, ready to submit.
+  C) US-010: Bedrock sweeps with pass@16 across ALL hard categories.
+- Downloads (US-002): all 5 datasets done (packages 5.6G, cot-tong 84M, offline-packages, cutlass 64M,
+  trained-adapter 4.0G); base model ~73G in foundation/model (13/13 shards). Next: requirements.lock + ptxas utility, then venv.
+
+## Iteration 3 (2026-05-31) — Foundation gates cleared
+### US-002 [PASS], US-003 [PASS]
+- VENV: foundation/.venv via uv, Python 3.12.13. Built from offline wheels (foundation/build_venv.sh).
+  KEY PINS (foundation/requirements.lock, 197 pkgs): torch 2.10.0+cu128, transformers 4.57.6,
+  peft 0.18.1, trl 0.24.0, datasets 4.3.0, accelerate 1.13.0, triton 3.6.0, vllm 0.18.0,
+  mamba_ssm 2.3.1, causal_conv1d 1.6.1, flash_attn 2.8.3, unsloth 2026.3.17, unsloth_zoo 2026.3.6,
+  bitsandbytes 0.49.2, xformers 0.0.35.
+- GATE G0 PASS: all import; bf16 matmul kernel runs on GPU; device RTX PRO 6000 Blackwell, cap (12,0)=sm_120.
+  NO ptxas-blackwell hack needed (system CUDA 13 / torch cu128 supports sm_120 natively).
+- GOTCHAS: (1) mamba/causal/flash wheels live directly under mayukh18_nemotron-packages/ (NOT /packages).
+  (2) unsloth install downgrades trl->0.24.0, datasets->4.3.0 (fine). (3) MUST `import unsloth` FIRST in
+  training scripts (before transformers/peft/trl) or optimizations/patches are skipped.
+- TRAINING APPROACH CONFIRMED (user): replicate the dgxchen UNSLOTH recipe (FastLanguageModel +
+  get_peft_model, targets [q,k,v,o,in_proj,out_proj,up_proj,down_proj] r32 a32 drop0 NO lm_head,
+  1 epoch, microbatch=1 FIXED, grad_accum32, LR2e-4 linear, max_seq8192, packing False, stratified-by-type).
+
+### US-005 [PARTIAL]
+- eval/grader.py: boxed extraction + numeric-tolerance grader, 8/8 self-tests PASS.
+- eval/build_heldout.py -> eval/{heldout_ids,train_ids,split_report}.txt. Split on UNIQUE ids
+  (6171 unique; 924 ids duplicated up to 14x). 942 heldout / 5229 train, disjoint+complete.
+- ⚠ CRITICAL: hard categories are data-STARVED in CoT set (unique ids): cryptarithm_guess=11,
+  equation_numeric_guess=21, cryptarithm_deduce=54. Held-out signal there is ~5-15 problems = near-zero
+  statistical power. The CoT data massively duplicates these few hard problems (winner: memorized/multi-epoch).
+- COMPETITION DATA: foundation/competition/train.csv = 9500 problems (id,prompt,answer; NO category col),
+  test.csv = 3 sample rows. Only 6171 have CoT+labels; 3329 un-CoT'd likely hold MORE hard-cat problems.
+  -> Bedrock front should categorize ALL 9500 by prompt pattern and target hard-cat problems beyond the 6171.
+
+### Bedrock (US-010) — availability CONFIRMED (deliverable C unblocked)
+- region us-east-1, 125 foundation models. All 8 targets present:
+  moonshotai.kimi-k2.5, moonshot.kimi-k2-thinking, mistral.mistral-large-3-675b-instruct,
+  qwen.qwen3-vl-235b-a22b (closest to 235B-A22B-2507), openai.gpt-oss-120b-1:0,
+  nvidia.nemotron-super-3-120b, deepseek.v3.2, zai.glm-5 (or glm-4.7).
+
+### Reference artifacts saved
+- foundation/dgxchen/notebook_raw.py (unsloth 0.85 recipe), reference_kernels/konbu17 (plain-PEFT v1),
+  submission_kernel_ref/ (no-accel submission kernel: enable_gpu=false, zip model_path -> submission.zip),
+  winner_repo/ (reasoners/*.py CoT generators).
+- Reference adapter format (dgxchen_trained-adapter): 2 files, peft 0.18.1, r32 a32 drop0, target_modules
+  INCLUDES lm_head (so lm_head IS accepted in submissions — but dgxchen recipe omits it; both ~0.85).
+
+### NEXT (GPU work)
+- US-004 (G0.5): load 30B base under vLLM + a tiny LoRA adapter; confirm rank<=32, key prefixes match
+  reference, generates \boxed{}. Validates the whole inference path.
+- US-006 (deliverable B): upload dgxchen_trained-adapter as a Kaggle model + push no-accel submission
+  kernel referencing it -> day-1 LB calibration.
+- Then US-007 (parity train), US-008 (bit_manip), US-009 (sweep>=0.83 heldout), US-010 (Bedrock team).
+
+## Iteration 4 (2026-05-31) — both tracks launched in parallel (user: "push straight into them")
+### Bedrock front (US-010 / deliverable C) — TEAM LAUNCHED
+- Infra: bedrock/sample.jsonl (586 hard problems, unsolved-first via problems.jsonl status field:
+  cryptarithm_deduce 150, cryptarithm_guess 150, equation_numeric_guess 136, bit_manipulation 150).
+- bedrock/driver.py: generic, resumable, concurrent Converse-API recon (grades \boxed{}, records
+  correctness + out_tokens + reasoning_chars + stopReason). Validated: deepseek.v3.2 works via plain
+  modelId, reasoning INLINE in text, maxTokens 8192 enough (stop=end_turn). EARLY SIGNAL: deepseek 0/4
+  on cryptarithm_deduce (consistent with winner's "needs search").
+- bedrock/aggregate.py: deterministic yield_table.md (pass@1, pass@16, tok_p50 per model x category).
+- 8 background worker agents launched (one per model), each: resolve modelId/inference-profile + thinking
+  config, validate (limit 12 x 4 gens), then launch FULL run (586 x 16 gens) in background, report early reads.
+  Models: deepseek.v3.2, moonshotai.kimi-k2.5, moonshot.kimi-k2-thinking, mistral.mistral-large-3-675b,
+  qwen.qwen3-vl-235b-a22b, openai.gpt-oss-120b-1:0, nvidia.nemotron-super-3-120b, zai.glm-5.
+- boto3 venv: bedrock/.venv. Region us-east-1.
+### GPU front (US-004 / G0.5) — IN PROGRESS
+- eval/vllm_smoke.py loading 30B under vLLM (enable_lora, max_lora_rank=32, gpu_util 0.85, max_model_len 8192)
+  + reference adapter; will confirm rank<=32 load + \boxed{} generation. ~13 shards @ 38s each.
+
+## Iteration 5 (2026-05-31) — Puzzle-cracking team (deterministic roof) + decisions
+### ROOF REPORT (verified via puzzle_team/harness.py; solvers derive from PROMPT only, no peeking)
+- equation_numeric_deduce: solver cracks 11/34 = 32.4% of the winner-UNSOLVED tail (rule_unknown). REAL headroom; extensible w/ richer op set. Solver: puzzle_team/solvers/equation_numeric_ops.py
+- bit_manipulation: solver cracks 11/117 = 9.4% of the tail. REAL headroom; winner's structured-offset model ((off + j*stride) mod 8 tying columns) would lift further. Solver: puzzle_team/solvers/bitman_perbit.py
+- cryptarithm_deduce: ~2% oracle cap. INTRACTABLE — tail rule is OUTSIDE every symbol->digit arithmetic family (only 2/120 admit ANY consistent map).
+- cryptarithm_guess + equation_numeric_guess: INTRACTABLE guessing games — query operator never appears in examples; best fixed guess == winner's rate (the winner is at the information-theoretic floor). This explains why ALL Bedrock frontier models also score ~0 on cryptarithm.
+- TEAM CAVEAT: nested agent-spawning unavailable to the manager; it ran approaches itself in parallel (not a 10-worker team). Main session CAN spawn real workers if we want deeper fan-out later.
+### STRATEGIC VERDICT
+- The ONLY real, bounded distillable headroom = deterministic code on the bit_manip + equation_deduce TAILS. cryptarithm/guess are dead ends. This confirms the architect/critic "inside-the-paradigm" pivot.
+### USER DECISIONS (2026-05-31)
+- Bedrock sweep: LET IT FINISH (full pass@16 record across all 4 hard cats, even the 3 dead ones).
+- Worker team / CoT generation: NOT YET — wait for parity training + LB calibration, decide on held-out<->LB gap first.
+### Live jobs (all healthy): parity training step ~34/203 (~6.5h ETA, 884M trainable params incl experts), 7-model Bedrock sweep @8192 (~6200+ results), Kaggle day-1 calibration submitted (LB pending).

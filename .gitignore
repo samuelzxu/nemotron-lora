@@ -1,0 +1,30 @@
+# === virtual environments ===
+**/.venv/
+
+# === model weights & trained adapters (huge binaries) ===
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.gguf
+foundation/model/
+artifacts/
+kaggle_upload/
+
+# === large datasets / base model assets ===
+foundation/datasets/
+
+# === third-party reference repo (own .git, ~6GB) ===
+winner_repo/
+
+# === python caches / compiled artifacts ===
+__pycache__/
+*.pyc
+*.pyo
+unsloth_compiled_cache/
+
+# === transient submission staging/output ===
+submit/output/
+
+# === oversized capture file (>100MB GitHub hard limit) ===
+bedrock/nemotron_super3_120b/results.jsonl
